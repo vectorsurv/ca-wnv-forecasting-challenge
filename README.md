@@ -1,4 +1,4 @@
-# California WNV Forecasting Challenge**
+# California WNV Forecasting Challenge
 
 **DRAFT**
 
