@@ -2,6 +2,10 @@
 
 Participants may use [mosquito abundance and infection data](https://github.com/vectorsurv/ca-wnv-forecasting-challenge) compiled by [VectorSurv](https://vectorsurv.org/) to supplement their forecast models. Initial data files will be available on the next day following March 31, 2024, including all available historical data from 2003 through the release date. Updated data will be released immediately following the 15th of each month beginning in April. 
 
+## Contact:
+
+If there are any questions, comments, or concerns, please contact help@vectorsurv.org
+
 ## Notes:
 
 - The data available for mosquito surveillance represent a subset of all counties within the continental U.S. Data are provided through partnerships with local vector control and public health agencies using VectorSurv (see list below) and represent all data in the VectorSurv system for participating agencies at the time of each data release. 
