@@ -1,7 +1,5 @@
 # Data Type: Dead Bird
 
-Each line represents all collections for a single county in a single month for a single trap type and species. Note that counties have multiple lines for a single month if they employed more than one trap type and/or found more than one species. If multiple species were collected for a single county, month, and trap type, the denominators for trapping effort (number of sites, trap nights, and collections) for each species remain the same and thus are repeated in each row.
-
 ## DESCRIPTION OF VARIABLES
 
 ### `state`
@@ -39,6 +37,14 @@ Examples: 2016, 2017
 Numeric month of collection (1-12)
 
 Examples: 1, 10
+
+### `num_reported_deadbirds`
+
+Number of birds that were reported in the specified county in that month
+
+### `num_tested_deadbirds`
+
+Number of birds that were tested in the specified county in that month
 
 ### `num_positive_deadbirds`
 
