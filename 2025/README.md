@@ -15,11 +15,11 @@ If there are any questions, comments, or concerns, please contact help@vectorsur
 - Because these data are managed by many individuals and surveillance programs throughout the country, they cannot be validated prior to distribution. Vector control and public health partners regularly review the data and utilize them to guide their decisions, but please note that errors are possible, and the data are provided as-is without any guarantee of their accuracy or utility for forecasting or other purposes.
 - Historical data may differ between posted versions of the data set (e.g., due to edits to past data or additions of historical data that were not previously in VectorSurv). It is also possible that a small number of additional VectorSurv partner agencies will elect to contribute data after the initial release, which could result in more counties represented in subsequent releases. For these reasons, each posted data set will be a complete copy of **all** data available from 2003 through each release date.
 
-### [Mosquito Abundance Data](https://github.com/vectorsurv/ca-wnv-forecasting-challenge/tree/main/abundance)
+### [Mosquito Abundance Data](https://github.com/vectorsurv/ca-wnv-forecasting-challenge/tree/main/2025/abundance)
 
 This dataset includes monthly adult trapping data for _Culex tarsalis_, _Culex pipiens_ complex (_Culex pipiens_, _Culex quinquefasciatus_, and their hybrids), _Culex restuans_, _Culex stigmatosoma_, _Culex salinarius_, and _Culex nigripalpus_) by county, trap type, and species. This includes data on the total trapping effort (number of sites, trap nights, and collections) and the collections of each species (number of adults collected and number of collections in which the species was detected).
 
-### [Mosquito Infection Data](https://github.com/vectorsurv/ca-wnv-forecasting-challenge/tree/main/infection)
+### [Mosquito Infection Data](https://github.com/vectorsurv/ca-wnv-forecasting-challenge/tree/main/2025/infection)
 
 This dataset includes monthly testing of adult female mosquitoes for West Nile virus by county and trap type. Mosquitoes are commonly tested in pools (i.e., batches) of 1-50 mosquitoes per pool. These data include information on the total testing volume (number of pools tested and number of mosquitoes tested) and the results of testing for West Nile virus (number of pools positive for West Nile virus). Some counties may report mosquito infection data without corresponding mosquito abundance data. For such areas, modelers should be aware that the total number of mosquitoes tested for West Nile virus is not a reliable proxy for mosquito abundance.
 
