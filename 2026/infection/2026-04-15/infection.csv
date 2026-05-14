@@ -11,37 +11,48 @@ California,06,Fresno,019,2003,5,CO2,Culex restuans,1,1,0
 California,06,Fresno,019,2003,5,CO2,Culex salinarius,1,3,0
 California,06,Fresno,019,2003,5,GRAV,Culex pipiens,2,16,0
 California,06,Fresno,019,2003,5,GRAV,Culex restuans,58,1155,0
+California,06,Fresno,019,2003,5,NJLT,Culex restuans,6,49,0
 California,06,Los Angeles,037,2003,5,GRAV,Culex pipiens,1,1,0
 California,06,Los Angeles,037,2003,5,GRAV,Culex restuans,4,170,0
 California,06,Los Angeles,037,2003,5,GRAV,Culex salinarius,2,3,0
+California,06,Los Angeles,037,2003,5,NJLT,Culex restuans,2,54,0
 California,06,Placer,061,2003,5,GRAV,Culex pipiens,1,1,0
 California,06,Placer,061,2003,5,GRAV,Culex restuans,2,73,0
+California,06,Placer,061,2003,5,NJLT,Culex restuans,7,22,0
 California,06,Riverside,065,2003,5,CO2,Culex quinquefasciatus,65,2916,0
 California,06,Riverside,065,2003,5,CO2,Culex tarsalis,128,5658,0
 California,06,Riverside,065,2003,5,GRAV,Culex quinquefasciatus,25,758,0
 California,06,Riverside,065,2003,5,GRAV,Culex restuans,14,538,0
 California,06,Riverside,065,2003,5,GRAV,Culex tarsalis,1,32,0
+California,06,Riverside,065,2003,5,NJLT,Culex restuans,4,62,0
 California,06,Sacramento,067,2003,5,CO2,Culex restuans,3,25,0
 California,06,Sacramento,067,2003,5,GRAV,Culex pipiens,1,3,0
 California,06,Sacramento,067,2003,5,GRAV,Culex restuans,11,383,0
+California,06,Sacramento,067,2003,5,NJLT,Culex restuans,3,120,0
 California,06,Stanislaus,099,2003,5,GRAV,Culex pipiens,2,4,0
 California,06,Stanislaus,099,2003,5,GRAV,Culex restuans,7,255,0
+California,06,Stanislaus,099,2003,5,NJLT,Culex restuans,7,165,0
 California,06,Yolo,113,2003,5,GRAV,Culex pipiens,1,4,0
 California,06,Yolo,113,2003,5,GRAV,Culex restuans,1,50,0
 California,06,Fresno,019,2003,6,CO2,Culex restuans,1,13,0
 California,06,Fresno,019,2003,6,CO2,Culex salinarius,5,250,0
 California,06,Fresno,019,2003,6,GRAV,Culex pipiens,2,7,0
 California,06,Fresno,019,2003,6,GRAV,Culex restuans,53,1175,0
+California,06,Fresno,019,2003,6,NJLT,Culex restuans,2,13,0
 California,06,Fresno,019,2003,6,OTHER,Culex restuans,6,213,0
 California,06,Kern,029,2003,6,OTHER,Culex restuans,1,1,0
 California,06,Kings,031,2003,6,CO2,Culex salinarius,1,2,0
 California,06,Kings,031,2003,6,GRAV,Culex restuans,3,150,0
 California,06,Los Angeles,037,2003,6,CO2,Culex salinarius,3,150,0
 California,06,Los Angeles,037,2003,6,GRAV,Culex restuans,1,45,0
+California,06,Los Angeles,037,2003,6,NJLT,Culex restuans,1,16,0
 California,06,Los Angeles,037,2003,6,OTHER,Culex restuans,1,1,0
 California,06,Madera,039,2003,6,OTHER,Culex restuans,3,40,0
 California,06,Merced,047,2003,6,GRAV,Culex pipiens,6,88,0
 California,06,Merced,047,2003,6,GRAV,Culex restuans,9,389,0
+California,06,Merced,047,2003,6,NJLT,Culex pipiens,1,6,0
+California,06,Merced,047,2003,6,NJLT,Culex restuans,1,14,0
+California,06,Merced,047,2003,6,NJLT,Culex salinarius,2,15,0
 California,06,Placer,061,2003,6,CO2,Culex salinarius,1,2,0
 California,06,Placer,061,2003,6,GRAV,Culex restuans,7,210,0
 California,06,Riverside,065,2003,6,CO2,Culex quinquefasciatus,31,1289,0
@@ -50,13 +61,18 @@ California,06,Riverside,065,2003,6,CO2,Culex tarsalis,111,4870,0
 California,06,Riverside,065,2003,6,GRAV,Culex pipiens,2,12,0
 California,06,Riverside,065,2003,6,GRAV,Culex quinquefasciatus,20,479,0
 California,06,Riverside,065,2003,6,GRAV,Culex restuans,14,528,0
+California,06,Riverside,065,2003,6,NJLT,Culex pipiens,1,1,0
+California,06,Riverside,065,2003,6,NJLT,Culex restuans,9,156,0
+California,06,Riverside,065,2003,6,NJLT,Culex salinarius,1,1,0
 California,06,Riverside,065,2003,6,OTHER,Culex restuans,2,30,0
 California,06,Sacramento,067,2003,6,CO2,Culex salinarius,4,151,0
 California,06,Sacramento,067,2003,6,GRAV,Culex restuans,7,324,0
+California,06,Sacramento,067,2003,6,NJLT,Culex pipiens,1,1,0
 California,06,Sacramento,067,2003,6,OTHER,Culex restuans,2,52,0
 California,06,Yolo,113,2003,6,CO2,Culex salinarius,1,1,0
 California,06,Yolo,113,2003,6,GRAV,Culex restuans,2,45,0
 California,06,Yolo,113,2003,6,GRAV,Culex salinarius,1,7,0
+California,06,Yolo,113,2003,6,NJLT,Culex restuans,1,12,0
 California,06,Fresno,019,2003,7,CO2,Culex salinarius,1,37,0
 California,06,Fresno,019,2003,7,GRAV,Culex pipiens,2,17,0
 California,06,Fresno,019,2003,7,GRAV,Culex restuans,18,319,0
@@ -209,6 +225,8 @@ California,06,Riverside,065,2003,9,GRAV,Culex quinquefasciatus,12,296,0
 California,06,Riverside,065,2003,9,GRAV,Culex restuans,7,135,2
 California,06,Riverside,065,2003,9,GRAV,Culex salinarius,2,5,0
 California,06,Riverside,065,2003,9,GRAV,Culex tarsalis,1,2,0
+California,06,Riverside,065,2003,9,NJLT,Culex restuans,1,18,0
+California,06,Riverside,065,2003,9,NJLT,Culex salinarius,1,2,0
 California,06,Riverside,065,2003,9,OTHER,Culex restuans,3,7,0
 California,06,Sacramento,067,2003,9,CO2,Culex pipiens,1,34,0
 California,06,Sacramento,067,2003,9,CO2,Culex restuans,2,32,1
@@ -233,6 +251,7 @@ California,06,Stanislaus,099,2003,9,OTHER,Culex restuans,1,2,0
 California,06,Tulare,107,2003,9,CO2,Culex tarsalis,7,297,5
 California,06,Yolo,113,2003,9,GRAV,Culex pipiens,1,18,0
 California,06,Yolo,113,2003,9,OTHER,Culex pipiens,1,1,0
+California,06,Yuba,115,2003,9,NJLT,Culex pipiens,1,1,0
 California,06,Fresno,019,2003,10,GRAV,Culex pipiens,13,157,0
 California,06,Fresno,019,2003,10,GRAV,Culex restuans,17,105,0
 California,06,Fresno,019,2003,10,OTHER,Culex salinarius,3,4,0
@@ -537,6 +556,7 @@ California,06,Riverside,065,2004,10,GRAV,Culex pipiens,4,67,0
 California,06,Riverside,065,2004,10,GRAV,Culex restuans,1,4,0
 California,06,Sacramento,067,2004,10,CO2,Culex salinarius,1,1,0
 California,06,Sacramento,067,2004,10,GRAV,Culex pipiens,2,8,0
+California,06,San Bernardino,071,2004,10,NJLT,Culex pipiens,1,1,0
 California,06,Stanislaus,099,2004,10,CO2,Culex quinquefasciatus,3,28,0
 California,06,Stanislaus,099,2004,10,CO2,Culex tarsalis,2,29,0
 California,06,Tulare,107,2004,10,CO2,Culex quinquefasciatus,2,56,0
@@ -546,6 +566,7 @@ California,06,Yolo,113,2004,10,CO2,Culex tarsalis,2,52,0
 California,06,Butte,007,2004,11,CO2,Culex quinquefasciatus,23,281,0
 California,06,Butte,007,2004,11,CO2,Culex tarsalis,56,1378,0
 California,06,Butte,007,2004,11,GRAV,Culex quinquefasciatus,21,431,0
+California,06,San Bernardino,071,2004,11,NJLT,Culex restuans,1,1,0
 California,06,Butte,007,2004,12,CO2,Culex quinquefasciatus,3,41,0
 California,06,Butte,007,2004,12,CO2,Culex tarsalis,28,916,0
 California,06,Butte,007,2005,1,CO2,Culex quinquefasciatus,3,72,0
@@ -983,6 +1004,7 @@ California,06,Kern,029,2006,8,GRAV,Culex pipiens/quinquefasciatus/restuans,17,80
 California,06,Kern,029,2006,8,GRAV,Culex salinarius,1,5,0
 California,06,Kings,031,2006,8,CO2,Culex salinarius,1,2,0
 California,06,Kings,031,2006,8,GRAV,Culex pipiens,21,404,0
+California,06,Kings,031,2006,8,NJLT,Culex salinarius,2,75,0
 California,06,Kings,031,2006,8,OTHER,Culex pipiens,1,2,0
 California,06,Los Angeles,037,2006,8,CO2,Culex pipiens/quinquefasciatus/restuans,18,561,3
 California,06,Los Angeles,037,2006,8,CO2,Culex quinquefasciatus,7,53,0
@@ -993,7 +1015,9 @@ California,06,Los Angeles,037,2006,8,GRAV,Culex pipiens,17,422,5
 California,06,Los Angeles,037,2006,8,GRAV,Culex pipiens/quinquefasciatus/restuans,47,1454,4
 California,06,Los Angeles,037,2006,8,GRAV,Culex restuans,4,44,0
 California,06,Los Angeles,037,2006,8,GRAV,Culex salinarius,1,1,0
+California,06,Los Angeles,037,2006,8,NJLT,Culex salinarius,2,37,0
 California,06,Los Angeles,037,2006,8,OTHER,Culex salinarius,1,1,0
+California,06,Madera,039,2006,8,NJLT,Culex salinarius,1,1,0
 California,06,Merced,047,2006,8,CO2,Culex pipiens/quinquefasciatus/restuans,1,27,0
 California,06,Merced,047,2006,8,GRAV,Culex pipiens/quinquefasciatus/restuans,15,749,0
 California,06,Merced,047,2006,8,OTHER,Culex salinarius,1,1,0
@@ -1123,6 +1147,8 @@ California,06,Los Angeles,037,2006,10,GRAV,Culex pipiens/quinquefasciatus/restua
 California,06,Merced,047,2006,10,CO2,Culex restuans,1,2,0
 California,06,Orange,059,2006,10,CO2,Culex pipiens/quinquefasciatus/restuans,2,28,0
 California,06,Orange,059,2006,10,GRAV,Culex restuans,2,2,0
+California,06,Orange,059,2006,10,NJLT,Culex restuans,2,3,0
+California,06,Orange,059,2006,10,NJLT,Culex salinarius,23,982,0
 California,06,Placer,061,2006,10,CO2,Culex pipiens,1,50,0
 California,06,Placer,061,2006,10,GRAV,Culex pipiens,1,75,0
 California,06,Riverside,065,2006,10,CO2,Culex pipiens,37,498,0
@@ -1436,6 +1462,7 @@ California,06,Riverside,065,2007,8,GRAV,Culex pipiens,33,713,6
 California,06,Riverside,065,2007,8,GRAV,Culex pipiens/quinquefasciatus/restuans,37,891,4
 California,06,Riverside,065,2007,8,GRAV,Culex restuans,10,205,3
 California,06,Riverside,065,2007,8,GRAV,Culex salinarius,1,1,0
+California,06,Riverside,065,2007,8,NJLT,Culex pipiens,1,2,0
 California,06,Sacramento,067,2007,8,CO2,Culex pipiens,4,76,2
 California,06,Sacramento,067,2007,8,CO2,Culex pipiens/quinquefasciatus/restuans,3,69,0
 California,06,Sacramento,067,2007,8,CO2,Culex pipiens/restuans/salinarius,1,7,0
@@ -1596,6 +1623,7 @@ California,06,Los Angeles,037,2007,10,OTHER,Culex restuans,1,5,0
 California,06,Madera,039,2007,10,CO2,Culex pipiens,1,2,0
 California,06,Madera,039,2007,10,GRAV,Culex pipiens,6,49,0
 California,06,Madera,039,2007,10,GRAV,Culex restuans,7,22,0
+California,06,Madera,039,2007,10,NJLT,Culex salinarius,1,67,0
 California,06,Madera,039,2007,10,OTHER,Culex pipiens,1,11,0
 California,06,Madera,039,2007,10,OTHER,Culex salinarius,1,1,0
 California,06,Merced,047,2007,10,CO2,Culex tarsalis,1,8,0
@@ -1613,6 +1641,7 @@ California,06,Riverside,065,2007,10,CO2,Culex tarsalis,21,837,0
 California,06,Riverside,065,2007,10,GRAV,Culex pipiens,8,53,0
 California,06,Riverside,065,2007,10,GRAV,Culex pipiens/quinquefasciatus/restuans,1,30,0
 California,06,Riverside,065,2007,10,GRAV,Culex restuans,11,23,0
+California,06,Riverside,065,2007,10,NJLT,Culex salinarius,5,350,0
 California,06,Riverside,065,2007,10,OTHER,Culex pipiens,1,8,0
 California,06,Riverside,065,2007,10,OTHER,Culex restuans,3,9,0
 California,06,Sacramento,067,2007,10,CO2,Culex pipiens,2,6,0
@@ -1664,6 +1693,7 @@ California,06,Tulare,107,2007,11,GRAV,Culex pipiens,13,70,0
 California,06,Tulare,107,2007,11,GRAV,Culex quinquefasciatus,243,5810,1
 California,06,Tulare,107,2007,11,GRAV,Culex stigmatosoma,2,5,0
 California,06,Tulare,107,2007,11,GRAV,Culex tarsalis,1,1,0
+California,06,Tulare,107,2007,11,NJLT,Culex pipiens,1,5,0
 California,06,Tulare,107,2007,11,OTHER,Culex quinquefasciatus,11,302,0
 California,06,Tulare,107,2007,12,CO2,Culex pipiens,4,200,0
 California,06,Tulare,107,2007,12,CO2,Culex quinquefasciatus,27,645,2
@@ -1912,6 +1942,8 @@ California,06,Riverside,065,2008,7,CO2,Culex tarsalis,23,948,2
 California,06,Riverside,065,2008,7,GRAV,Culex pipiens,28,1074,5
 California,06,Riverside,065,2008,7,GRAV,Culex pipiens/quinquefasciatus/restuans,15,626,1
 California,06,Riverside,065,2008,7,GRAV,Culex restuans,7,94,0
+California,06,Riverside,065,2008,7,NJLT,Culex pipiens,2,80,2
+California,06,Riverside,065,2008,7,NJLT,Culex restuans,1,5,1
 California,06,Riverside,065,2008,7,OTHER,Culex restuans,4,5,0
 California,06,Sacramento,067,2008,7,CO2,Culex pipiens,3,138,0
 California,06,Sacramento,067,2008,7,CO2,Culex pipiens/quinquefasciatus/restuans,6,124,0
@@ -1993,6 +2025,7 @@ California,06,Kern,029,2008,8,GRAV,Culex pipiens,9,91,0
 California,06,Kern,029,2008,8,GRAV,Culex pipiens/quinquefasciatus/restuans,7,260,0
 California,06,Kern,029,2008,8,OTHER,Culex restuans,2,3,0
 California,06,Kings,031,2008,8,GRAV,Culex pipiens,1,5,0
+California,06,Kings,031,2008,8,NJLT,Culex restuans,1,2,1
 California,06,Kings,031,2008,8,OTHER,Culex pipiens,1,3,0
 California,06,Los Angeles,037,2008,8,CO2,Culex pipiens,10,814,0
 California,06,Los Angeles,037,2008,8,CO2,Culex pipiens/quinquefasciatus/restuans,1,17,0
@@ -2002,6 +2035,8 @@ California,06,Los Angeles,037,2008,8,CO2,Culex tarsalis,23,959,3
 California,06,Los Angeles,037,2008,8,GRAV,Culex pipiens,12,175,5
 California,06,Los Angeles,037,2008,8,GRAV,Culex pipiens/quinquefasciatus/restuans,7,196,2
 California,06,Los Angeles,037,2008,8,GRAV,Culex restuans,1,17,0
+California,06,Los Angeles,037,2008,8,NJLT,Culex pipiens,3,85,3
+California,06,Los Angeles,037,2008,8,NJLT,Culex restuans,1,11,1
 California,06,Los Angeles,037,2008,8,OTHER,Culex restuans,1,4,0
 California,06,Madera,039,2008,8,CO2,Culex pipiens/quinquefasciatus/restuans,10,183,0
 California,06,Madera,039,2008,8,CO2,Culex restuans,1,1,0
@@ -2038,6 +2073,7 @@ California,06,Sacramento,067,2008,8,GRAV,Culex pipiens,18,405,3
 California,06,Sacramento,067,2008,8,GRAV,Culex pipiens/quinquefasciatus/restuans,24,687,8
 California,06,Sacramento,067,2008,8,GRAV,Culex restuans,5,301,0
 California,06,Sacramento,067,2008,8,GRAV,Culex salinarius,1,2,0
+California,06,Sacramento,067,2008,8,NJLT,Culex pipiens,1,35,1
 California,06,Sacramento,067,2008,8,OTHER,Culex restuans,2,2,0
 California,06,San Bernardino,071,2008,8,CO2,Culex pipiens,14,864,1
 California,06,San Bernardino,071,2008,8,CO2,Culex pipiens/quinquefasciatus/restuans,1,20,0
@@ -2069,6 +2105,7 @@ California,06,Yolo,113,2008,8,CO2,Culex pipiens/quinquefasciatus/restuans,1,14,0
 California,06,Yolo,113,2008,8,GRAV,Culex pipiens,5,266,1
 California,06,Yolo,113,2008,8,GRAV,Culex pipiens/quinquefasciatus/restuans,2,56,2
 California,06,Yolo,113,2008,8,GRAV,Culex restuans,1,2,0
+California,06,Yolo,113,2008,8,NJLT,Culex pipiens,1,26,1
 California,06,Yuba,115,2008,8,CO2,Culex pipiens/quinquefasciatus/restuans,2,51,0
 California,06,Yuba,115,2008,8,GRAV,Culex pipiens/quinquefasciatus/restuans,13,485,0
 California,06,Butte,007,2008,9,CO2,Culex pipiens,9,40,0
@@ -2213,6 +2250,8 @@ California,06,Los Angeles,037,2008,10,GRAV,Culex tarsalis,17,47,0
 California,06,Los Angeles,037,2008,10,OTHER,Culex quinquefasciatus,64,2555,7
 California,06,Los Angeles,037,2008,10,OTHER,Culex tarsalis,2,35,0
 California,06,Madera,039,2008,10,CO2,Culex restuans,1,2,0
+California,06,Madera,039,2008,10,NJLT,Culex restuans,1,2,0
+California,06,Madera,039,2008,10,NJLT,Culex salinarius,1,4,0
 California,06,Orange,059,2008,10,CO2,Culex quinquefasciatus,2,100,0
 California,06,Orange,059,2008,10,CO2,Culex salinarius,1,19,0
 California,06,Orange,059,2008,10,CO2,Culex tarsalis,19,775,3
@@ -2227,6 +2266,7 @@ California,06,Riverside,065,2008,10,CO2,Culex restuans,2,2,0
 California,06,Riverside,065,2008,10,CO2,Culex tarsalis,24,983,2
 California,06,Riverside,065,2008,10,GRAV,Culex pipiens/quinquefasciatus/restuans,10,208,0
 California,06,Riverside,065,2008,10,GRAV,Culex restuans,6,10,0
+California,06,Riverside,065,2008,10,NJLT,Culex salinarius,2,36,0
 California,06,Riverside,065,2008,10,OTHER,Culex pipiens,3,5,0
 California,06,Sacramento,067,2008,10,CO2,Culex pipiens,1,3,0
 California,06,Sacramento,067,2008,10,CO2,Culex salinarius,1,7,0
@@ -4408,6 +4448,8 @@ California,06,Yolo,113,2013,5,GRAV,Culex quinquefasciatus,751,26640,6
 California,06,Yolo,113,2013,5,GRAV,Culex restuans,2,44,0
 California,06,Yolo,113,2013,5,GRAV,Culex stigmatosoma,16,163,0
 California,06,Yolo,113,2013,5,GRAV,Culex tarsalis,20,193,0
+California,06,Yolo,113,2013,5,NJLT,Culex quinquefasciatus,1,50,0
+California,06,Yolo,113,2013,5,NJLT,Culex tarsalis,2,100,0
 California,06,Yolo,113,2013,5,OTHER,Culex pipiens,2,44,0
 California,06,Yolo,113,2013,5,OTHER,Culex quinquefasciatus,4,24,0
 California,06,Yolo,113,2013,5,OTHER,Culex stigmatosoma,3,15,0
@@ -5215,6 +5257,7 @@ California,06,Butte,007,2014,6,CO2,Culex tarsalis,32,744,0
 California,06,Butte,007,2014,6,GRAV,Culex pipiens/quinquefasciatus,4,186,1
 California,06,Butte,007,2014,6,GRAV,Culex pipiens/quinquefasciatus/restuans,10,1000,0
 California,06,Butte,007,2014,6,GRAV,Culex restuans,2,43,0
+California,06,Butte,007,2014,6,NJLT,Culex pipiens,2,30,0
 California,06,Colusa,011,2014,6,GRAV,Culex pipiens/quinquefasciatus,2,48,0
 California,06,Colusa,011,2014,6,GRAV,Culex restuans,1,44,0
 California,06,Fresno,019,2014,6,CO2,Culex pipiens,7,17,0
@@ -6174,6 +6217,7 @@ California,06,Los Angeles,037,2015,5,CO2,Culex quinquefasciatus,113,627,4
 California,06,Los Angeles,037,2015,5,CO2,Culex tarsalis,13,55,0
 California,06,Los Angeles,037,2015,5,GRAV,Culex pipiens/quinquefasciatus/restuans,5,349,0
 California,06,Los Angeles,037,2015,5,GRAV,Culex restuans,57,2439,0
+California,06,Los Angeles,037,2015,5,NJLT,Culex restuans,4,12,0
 California,06,Madera,039,2015,5,CO2,Culex quinquefasciatus,48,599,0
 California,06,Madera,039,2015,5,CO2,Culex tarsalis,10,118,0
 California,06,Madera,039,2015,5,GRAV,Culex restuans,17,793,0
@@ -6283,6 +6327,8 @@ California,06,Los Angeles,037,2015,6,GRAV,Culex pipiens/quinquefasciatus/restuan
 California,06,Los Angeles,037,2015,6,GRAV,Culex restuans,54,1444,0
 California,06,Los Angeles,037,2015,6,GRAV,Culex salinarius,2,3,0
 California,06,Los Angeles,037,2015,6,GRAV,Culex tarsalis,1,1,0
+California,06,Los Angeles,037,2015,6,NJLT,Culex pipiens,2,12,0
+California,06,Los Angeles,037,2015,6,NJLT,Culex restuans,8,27,0
 California,06,Los Angeles,037,2015,6,OTHER,Culex restuans,1,1,0
 California,06,Madera,039,2015,6,CO2,Culex pipiens,17,364,0
 California,06,Madera,039,2015,6,CO2,Culex pipiens/quinquefasciatus/restuans,14,266,0
@@ -6439,6 +6485,7 @@ California,06,Kern,029,2015,7,GRAV,Culex pipiens/quinquefasciatus/restuans,64,55
 California,06,Kern,029,2015,7,GRAV,Culex restuans,6,117,0
 California,06,Kern,029,2015,7,GRAV,Culex salinarius,3,3,0
 California,06,Kern,029,2015,7,GRAV,Culex tarsalis,2,7,0
+California,06,Kern,029,2015,7,NJLT,Culex pipiens,3,20,0
 California,06,Kern,029,2015,7,OTHER,Culex restuans,1,1,0
 California,06,Kings,031,2015,7,CO2,Culex pipiens,9,83,0
 California,06,Kings,031,2015,7,CO2,Culex pipiens/quinquefasciatus/restuans,1,54,0
@@ -6510,6 +6557,7 @@ California,06,Sacramento,067,2015,7,GRAV,Culex pipiens/quinquefasciatus/restuans
 California,06,Sacramento,067,2015,7,GRAV,Culex restuans,5,118,1
 California,06,Sacramento,067,2015,7,GRAV,Culex salinarius,3,3,0
 California,06,Sacramento,067,2015,7,GRAV,Culex tarsalis,1,1,0
+California,06,Sacramento,067,2015,7,NJLT,Culex pipiens,1,2,0
 California,06,San Bernardino,071,2015,7,CO2,Culex pipiens,87,6329,0
 California,06,San Bernardino,071,2015,7,CO2,Culex quinquefasciatus,44,126,0
 California,06,San Bernardino,071,2015,7,CO2,Culex tarsalis,143,6257,4
@@ -6652,6 +6700,7 @@ California,06,Orange,059,2015,8,GRAV,Culex pipiens/quinquefasciatus,58,1884,19
 California,06,Orange,059,2015,8,GRAV,Culex pipiens/quinquefasciatus/restuans,15,1318,4
 California,06,Orange,059,2015,8,GRAV,Culex restuans,26,130,0
 California,06,Orange,059,2015,8,GRAV,Culex salinarius,6,20,0
+California,06,Orange,059,2015,8,NJLT,Culex pipiens,7,25,1
 California,06,Orange,059,2015,8,OTHER,Culex pipiens/restuans/salinarius,1,1,0
 California,06,Placer,061,2015,8,CO2,Culex pipiens/quinquefasciatus/restuans,1,2,0
 California,06,Placer,061,2015,8,CO2,Culex tarsalis,3,148,1
@@ -6765,6 +6814,7 @@ California,06,Fresno,019,2015,9,GRAV,Culex pipiens,11,471,5
 California,06,Fresno,019,2015,9,GRAV,Culex pipiens/quinquefasciatus,48,2180,14
 California,06,Fresno,019,2015,9,GRAV,Culex pipiens/quinquefasciatus/restuans,81,1875,12
 California,06,Fresno,019,2015,9,GRAV,Culex restuans,2,23,2
+California,06,Fresno,019,2015,9,NJLT,Culex pipiens,2,5,0
 California,06,Glenn,021,2015,9,CO2,Culex pipiens,1,6,0
 California,06,Glenn,021,2015,9,CO2,Culex pipiens/quinquefasciatus/restuans,1,29,0
 California,06,Glenn,021,2015,9,CO2,Culex quinquefasciatus,1,1,0
@@ -6778,6 +6828,7 @@ California,06,Kern,029,2015,9,GRAV,Culex pipiens,24,798,11
 California,06,Kern,029,2015,9,GRAV,Culex pipiens/quinquefasciatus,58,2561,23
 California,06,Kern,029,2015,9,GRAV,Culex pipiens/quinquefasciatus/restuans,19,995,5
 California,06,Kern,029,2015,9,GRAV,Culex restuans,2,44,1
+California,06,Kern,029,2015,9,NJLT,Culex pipiens,1,4,0
 California,06,Kern,029,2015,9,OTHER,Culex pipiens/restuans/salinarius,4,5,0
 California,06,Kings,031,2015,9,CO2,Culex pipiens,1,19,0
 California,06,Kings,031,2015,9,CO2,Culex pipiens/restuans/salinarius,1,1,0
@@ -6791,6 +6842,7 @@ California,06,Los Angeles,037,2015,9,CO2,Culex tarsalis,129,3998,4
 California,06,Los Angeles,037,2015,9,GRAV,Culex pipiens,35,1608,15
 California,06,Los Angeles,037,2015,9,GRAV,Culex pipiens/quinquefasciatus,50,2186,15
 California,06,Los Angeles,037,2015,9,GRAV,Culex pipiens/quinquefasciatus/restuans,31,1400,8
+California,06,Los Angeles,037,2015,9,NJLT,Culex pipiens,1,2,0
 California,06,Los Angeles,037,2015,9,OTHER,Culex pipiens/restuans/salinarius,1,1,0
 California,06,Madera,039,2015,9,CO2,Culex pipiens,5,35,0
 California,06,Madera,039,2015,9,CO2,Culex pipiens/quinquefasciatus/restuans,6,175,1
@@ -6832,6 +6884,7 @@ California,06,Sacramento,067,2015,9,GRAV,Culex pipiens,30,1760,13
 California,06,Sacramento,067,2015,9,GRAV,Culex pipiens/quinquefasciatus,81,3427,22
 California,06,Sacramento,067,2015,9,GRAV,Culex pipiens/quinquefasciatus/restuans,15,729,6
 California,06,Sacramento,067,2015,9,GRAV,Culex restuans,5,101,3
+California,06,Sacramento,067,2015,9,NJLT,Culex pipiens,1,2,0
 California,06,Sacramento,067,2015,9,OTHER,Culex pipiens/restuans/salinarius,3,6,0
 California,06,San Bernardino,071,2015,9,CO2,Culex pipiens,35,1800,3
 California,06,San Bernardino,071,2015,9,CO2,Culex pipiens/quinquefasciatus/restuans,1,10,0
@@ -6881,6 +6934,7 @@ California,06,Yolo,113,2015,9,CO2,Culex tarsalis,34,839,0
 California,06,Yolo,113,2015,9,GRAV,Culex pipiens,4,55,1
 California,06,Yolo,113,2015,9,GRAV,Culex pipiens/quinquefasciatus,26,1149,9
 California,06,Yolo,113,2015,9,GRAV,Culex restuans,1,8,0
+California,06,Yolo,113,2015,9,NJLT,Culex restuans,1,21,0
 California,06,Yolo,113,2015,9,OTHER,Culex pipiens/restuans/salinarius,2,3,0
 California,06,Yuba,115,2015,9,BGS,Culex pipiens,22,698,5
 California,06,Yuba,115,2015,9,BGS,Culex quinquefasciatus,1,50,0
@@ -6944,6 +6998,7 @@ California,06,Sacramento,067,2015,10,CO2,Culex tarsalis,54,320,0
 California,06,Sacramento,067,2015,10,GRAV,Culex pipiens,23,450,3
 California,06,Sacramento,067,2015,10,GRAV,Culex pipiens/quinquefasciatus,65,2495,8
 California,06,Sacramento,067,2015,10,GRAV,Culex restuans,10,83,1
+California,06,Sacramento,067,2015,10,NJLT,Culex pipiens,1,1,0
 California,06,San Bernardino,071,2015,10,CO2,Culex quinquefasciatus,120,637,0
 California,06,San Bernardino,071,2015,10,CO2,Culex tarsalis,39,571,1
 California,06,San Bernardino,071,2015,10,GRAV,Culex pipiens,19,821,6
@@ -8472,6 +8527,7 @@ California,06,Sacramento,067,2017,6,CO2,Culex tarsalis,161,11269,0
 California,06,Sacramento,067,2017,6,GRAV,Culex pipiens,11,438,0
 California,06,Sacramento,067,2017,6,GRAV,Culex pipiens/quinquefasciatus/restuans,12,482,0
 California,06,Sacramento,067,2017,6,GRAV,Culex quinquefasciatus,4,73,0
+California,06,Sacramento,067,2017,6,NJLT,Culex tarsalis,1,45,0
 California,06,San Bernardino,071,2017,6,BGS,Culex pipiens,1,12,0
 California,06,San Bernardino,071,2017,6,BGS,Culex quinquefasciatus,7,43,0
 California,06,San Bernardino,071,2017,6,BGS,Culex tarsalis,8,284,0
@@ -8687,6 +8743,8 @@ California,06,Yolo,113,2017,7,GRAV,Culex pipiens/quinquefasciatus/restuans,18,82
 California,06,Yolo,113,2017,7,GRAV,Culex quinquefasciatus,515,13938,127
 California,06,Yolo,113,2017,7,GRAV,Culex stigmatosoma,11,296,2
 California,06,Yolo,113,2017,7,GRAV,Culex tarsalis,58,211,4
+California,06,Yolo,113,2017,7,NJLT,Culex pipiens,1,26,0
+California,06,Yolo,113,2017,7,NJLT,Culex tarsalis,2,519,0
 California,06,Yolo,113,2017,7,OTHER,Culex pipiens,4,19,0
 California,06,Yolo,113,2017,7,OTHER,Culex quinquefasciatus,8,14,0
 California,06,Yolo,113,2017,7,OTHER,Culex stigmatosoma,9,273,0
@@ -8752,6 +8810,7 @@ California,06,Los Angeles,037,2017,8,CO2,Culex tarsalis,476,13774,36
 California,06,Los Angeles,037,2017,8,GRAV,Culex pipiens,24,959,1
 California,06,Los Angeles,037,2017,8,GRAV,Culex pipiens/quinquefasciatus/restuans,80,5243,34
 California,06,Los Angeles,037,2017,8,GRAV,Culex quinquefasciatus,13,666,0
+California,06,Los Angeles,037,2017,8,NJLT,Culex pipiens,2,59,0
 California,06,Madera,039,2017,8,CO2,Culex pipiens/quinquefasciatus/restuans,4,91,0
 California,06,Madera,039,2017,8,CO2,Culex pipiens/restuans/salinarius,6,86,0
 California,06,Madera,039,2017,8,CO2,Culex quinquefasciatus,7,11,0
@@ -8768,6 +8827,8 @@ California,06,Merced,047,2017,8,CO2,Culex tarsalis,24,432,0
 California,06,Merced,047,2017,8,GRAV,Culex pipiens,5,204,0
 California,06,Merced,047,2017,8,GRAV,Culex pipiens/quinquefasciatus/restuans,2,200,0
 California,06,Merced,047,2017,8,GRAV,Culex tarsalis,1,1,0
+California,06,Merced,047,2017,8,NJLT,Culex pipiens,2,67,0
+California,06,Merced,047,2017,8,NJLT,Culex tarsalis,1,16,0
 California,06,Orange,059,2017,8,BGS,Culex quinquefasciatus,21,55,1
 California,06,Orange,059,2017,8,BGS,Culex salinarius,5,182,0
 California,06,Orange,059,2017,8,BGS,Culex tarsalis,8,13,2
@@ -8777,6 +8838,8 @@ California,06,Orange,059,2017,8,CO2,Culex quinquefasciatus,61,348,2
 California,06,Orange,059,2017,8,CO2,Culex salinarius,43,1482,1
 California,06,Orange,059,2017,8,CO2,Culex tarsalis,39,1277,0
 California,06,Orange,059,2017,8,GRAV,Culex pipiens/quinquefasciatus/restuans,54,2945,14
+California,06,Orange,059,2017,8,NJLT,Culex pipiens,3,133,0
+California,06,Orange,059,2017,8,NJLT,Culex tarsalis,1,18,0
 California,06,Placer,061,2017,8,CO2,Culex restuans,5,88,1
 California,06,Placer,061,2017,8,CO2,Culex salinarius,3,72,0
 California,06,Placer,061,2017,8,CO2,Culex tarsalis,18,607,7
@@ -9735,6 +9798,8 @@ California,06,Sacramento,067,2018,6,GRAV,Culex quinquefasciatus,285,9857,1
 California,06,Sacramento,067,2018,6,GRAV,Culex restuans,12,377,0
 California,06,Sacramento,067,2018,6,GRAV,Culex stigmatosoma,3,53,0
 California,06,Sacramento,067,2018,6,GRAV,Culex tarsalis,14,33,0
+California,06,Sacramento,067,2018,6,NJLT,Culex pipiens,1,12,0
+California,06,Sacramento,067,2018,6,NJLT,Culex tarsalis,1,10,0
 California,06,Sacramento,067,2018,6,OTHER,Culex pipiens,1,1,0
 California,06,Sacramento,067,2018,6,OTHER,Culex stigmatosoma,2,63,0
 California,06,Sacramento,067,2018,6,OTHER,Culex tarsalis,3,24,0
@@ -9764,6 +9829,7 @@ California,06,San Joaquin,077,2018,6,GRAV,Culex pipiens/quinquefasciatus/restuan
 California,06,San Joaquin,077,2018,6,GRAV,Culex quinquefasciatus,70,2403,0
 California,06,San Joaquin,077,2018,6,GRAV,Culex stigmatosoma,1,37,0
 California,06,San Joaquin,077,2018,6,GRAV,Culex tarsalis,6,11,0
+California,06,San Joaquin,077,2018,6,NJLT,Culex tarsalis,2,26,0
 California,06,San Joaquin,077,2018,6,OTHER,Culex tarsalis,1,5,0
 California,06,Stanislaus,099,2018,6,BGS,Culex quinquefasciatus,3,54,0
 California,06,Stanislaus,099,2018,6,CO2,Culex pipiens,39,984,0
@@ -9999,6 +10065,8 @@ California,06,Sacramento,067,2018,7,GRAV,Culex pipiens/restuans/salinarius,4,61,
 California,06,Sacramento,067,2018,7,GRAV,Culex quinquefasciatus,262,9415,6
 California,06,Sacramento,067,2018,7,GRAV,Culex stigmatosoma,1,14,0
 California,06,Sacramento,067,2018,7,GRAV,Culex tarsalis,9,45,0
+California,06,Sacramento,067,2018,7,NJLT,Culex pipiens,1,33,0
+California,06,Sacramento,067,2018,7,NJLT,Culex tarsalis,1,10,0
 California,06,Sacramento,067,2018,7,OTHER,Culex stigmatosoma,1,3,0
 California,06,Sacramento,067,2018,7,OTHER,Culex tarsalis,1,27,0
 California,06,San Bernardino,071,2018,7,BGS,Culex pipiens,1,16,0
@@ -10124,6 +10192,7 @@ California,06,Fresno,019,2018,8,GRAV,Culex quinquefasciatus,174,5170,7
 California,06,Fresno,019,2018,8,GRAV,Culex salinarius,1,11,0
 California,06,Fresno,019,2018,8,GRAV,Culex stigmatosoma,5,144,0
 California,06,Fresno,019,2018,8,GRAV,Culex tarsalis,12,31,0
+California,06,Fresno,019,2018,8,NJLT,Culex pipiens,2,37,0
 California,06,Fresno,019,2018,8,OTHER,Culex pipiens/restuans/salinarius,2,5,0
 California,06,Fresno,019,2018,8,OTHER,Culex quinquefasciatus,2,80,1
 California,06,Glenn,021,2018,8,CO2,Culex pipiens,7,71,0
@@ -10151,6 +10220,7 @@ California,06,Kern,029,2018,8,GRAV,Culex quinquefasciatus,59,1324,2
 California,06,Kern,029,2018,8,GRAV,Culex salinarius,1,30,1
 California,06,Kern,029,2018,8,GRAV,Culex stigmatosoma,1,31,0
 California,06,Kern,029,2018,8,GRAV,Culex tarsalis,6,8,0
+California,06,Kern,029,2018,8,NJLT,Culex pipiens,1,18,0
 California,06,Kern,029,2018,8,OTHER,Culex stigmatosoma,1,4,0
 California,06,Kern,029,2018,8,OTHER,Culex tarsalis,3,4,0
 California,06,Kings,031,2018,8,BGS,Culex pipiens,2,100,0
@@ -11655,6 +11725,8 @@ California,06,Stanislaus,099,2019,6,GRAV,Culex restuans,9,23,0
 California,06,Stanislaus,099,2019,6,GRAV,Culex salinarius,4,14,0
 California,06,Stanislaus,099,2019,6,GRAV,Culex stigmatosoma,1,23,0
 California,06,Stanislaus,099,2019,6,GRAV,Culex tarsalis,6,12,0
+California,06,Stanislaus,099,2019,6,NJLT,Culex pipiens,1,16,0
+California,06,Stanislaus,099,2019,6,NJLT,Culex tarsalis,1,33,0
 California,06,Stanislaus,099,2019,6,OTHER,Culex pipiens/restuans/salinarius,2,6,0
 California,06,Stanislaus,099,2019,6,OTHER,Culex restuans,1,1,0
 California,06,Stanislaus,099,2019,6,OTHER,Culex salinarius,2,66,0
@@ -11838,6 +11910,8 @@ California,06,Los Angeles,037,2019,7,GRAV,Culex restuans,31,238,0
 California,06,Los Angeles,037,2019,7,GRAV,Culex salinarius,15,23,0
 California,06,Los Angeles,037,2019,7,GRAV,Culex stigmatosoma,15,259,2
 California,06,Los Angeles,037,2019,7,GRAV,Culex tarsalis,22,101,1
+California,06,Los Angeles,037,2019,7,NJLT,Culex pipiens,2,22,0
+California,06,Los Angeles,037,2019,7,NJLT,Culex tarsalis,3,115,0
 California,06,Los Angeles,037,2019,7,OTHER,Culex pipiens,1,2,0
 California,06,Los Angeles,037,2019,7,OTHER,Culex pipiens/restuans/salinarius,9,52,0
 California,06,Los Angeles,037,2019,7,OTHER,Culex quinquefasciatus,6,272,0
@@ -12035,6 +12109,8 @@ California,06,Tulare,107,2019,7,GRAV,Culex quinquefasciatus,34,797,8
 California,06,Tulare,107,2019,7,GRAV,Culex restuans,1,11,0
 California,06,Tulare,107,2019,7,GRAV,Culex stigmatosoma,1,1,0
 California,06,Tulare,107,2019,7,GRAV,Culex tarsalis,1,6,0
+California,06,Tulare,107,2019,7,NJLT,Culex pipiens,1,10,0
+California,06,Tulare,107,2019,7,NJLT,Culex tarsalis,1,14,0
 California,06,Tulare,107,2019,7,OTHER,Culex pipiens/restuans/salinarius,1,7,0
 California,06,Yolo,113,2019,7,BGS,Culex pipiens,11,169,0
 California,06,Yolo,113,2019,7,BGS,Culex quinquefasciatus,67,2284,4
@@ -12119,6 +12195,8 @@ California,06,Fresno,019,2019,8,GRAV,Culex restuans,8,9,0
 California,06,Fresno,019,2019,8,GRAV,Culex salinarius,4,5,0
 California,06,Fresno,019,2019,8,GRAV,Culex stigmatosoma,6,154,0
 California,06,Fresno,019,2019,8,GRAV,Culex tarsalis,17,94,0
+California,06,Fresno,019,2019,8,NJLT,Culex pipiens,6,132,0
+California,06,Fresno,019,2019,8,NJLT,Culex tarsalis,6,356,0
 California,06,Fresno,019,2019,8,OTHER,Culex pipiens,2,30,0
 California,06,Fresno,019,2019,8,OTHER,Culex pipiens/restuans/salinarius,1,1,0
 California,06,Fresno,019,2019,8,OTHER,Culex stigmatosoma,1,3,0
@@ -12287,6 +12365,8 @@ California,06,Sacramento,067,2019,8,GRAV,Culex quinquefasciatus,131,3796,44
 California,06,Sacramento,067,2019,8,GRAV,Culex restuans,7,8,0
 California,06,Sacramento,067,2019,8,GRAV,Culex salinarius,4,6,0
 California,06,Sacramento,067,2019,8,GRAV,Culex stigmatosoma,5,111,0
+California,06,Sacramento,067,2019,8,NJLT,Culex pipiens,3,129,0
+California,06,Sacramento,067,2019,8,NJLT,Culex tarsalis,2,157,0
 California,06,Sacramento,067,2019,8,OTHER,Culex salinarius,1,64,0
 California,06,San Bernardino,071,2019,8,BGS,Culex quinquefasciatus,11,287,4
 California,06,San Bernardino,071,2019,8,BGS,Culex tarsalis,3,68,1
@@ -12306,6 +12386,8 @@ California,06,San Bernardino,071,2019,8,GRAV,Culex quinquefasciatus,68,2046,19
 California,06,San Bernardino,071,2019,8,GRAV,Culex restuans,8,11,0
 California,06,San Bernardino,071,2019,8,GRAV,Culex salinarius,9,16,0
 California,06,San Bernardino,071,2019,8,GRAV,Culex tarsalis,8,18,0
+California,06,San Bernardino,071,2019,8,NJLT,Culex pipiens,1,23,0
+California,06,San Bernardino,071,2019,8,NJLT,Culex tarsalis,1,42,0
 California,06,San Bernardino,071,2019,8,OTHER,Culex pipiens/restuans/salinarius,1,2,0
 California,06,San Bernardino,071,2019,8,OTHER,Culex salinarius,2,59,0
 California,06,San Joaquin,077,2019,8,BGS,Culex pipiens,3,46,0
@@ -12377,6 +12459,7 @@ California,06,Tulare,107,2019,8,GRAV,Culex restuans,3,13,0
 California,06,Tulare,107,2019,8,GRAV,Culex salinarius,2,2,0
 California,06,Tulare,107,2019,8,GRAV,Culex stigmatosoma,1,4,0
 California,06,Tulare,107,2019,8,GRAV,Culex tarsalis,9,46,0
+California,06,Tulare,107,2019,8,NJLT,Culex tarsalis,1,10,0
 California,06,Tulare,107,2019,8,OTHER,Culex pipiens,2,9,0
 California,06,Tulare,107,2019,8,OTHER,Culex pipiens/restuans/salinarius,2,4,0
 California,06,Tulare,107,2019,8,OTHER,Culex quinquefasciatus,1,50,0
@@ -12399,6 +12482,8 @@ California,06,Yolo,113,2019,8,GRAV,Culex pipiens/restuans/salinarius,5,58,0
 California,06,Yolo,113,2019,8,GRAV,Culex quinquefasciatus,60,1661,24
 California,06,Yolo,113,2019,8,GRAV,Culex restuans,5,9,0
 California,06,Yolo,113,2019,8,GRAV,Culex salinarius,2,4,0
+California,06,Yolo,113,2019,8,NJLT,Culex pipiens,1,50,0
+California,06,Yolo,113,2019,8,NJLT,Culex tarsalis,1,55,0
 California,06,Yuba,115,2019,8,BGS,Culex quinquefasciatus,8,138,1
 California,06,Yuba,115,2019,8,BGS,Culex stigmatosoma,1,14,0
 California,06,Yuba,115,2019,8,BGS,Culex tarsalis,3,57,1
@@ -12521,6 +12606,8 @@ California,06,Los Angeles,037,2019,9,GRAV,Culex restuans,7,8,0
 California,06,Los Angeles,037,2019,9,GRAV,Culex salinarius,4,12,0
 California,06,Los Angeles,037,2019,9,GRAV,Culex stigmatosoma,5,94,0
 California,06,Los Angeles,037,2019,9,GRAV,Culex tarsalis,10,22,0
+California,06,Los Angeles,037,2019,9,NJLT,Culex pipiens,2,55,0
+California,06,Los Angeles,037,2019,9,NJLT,Culex tarsalis,1,16,0
 California,06,Los Angeles,037,2019,9,OTHER,Culex pipiens,1,29,0
 California,06,Los Angeles,037,2019,9,OTHER,Culex quinquefasciatus,2,64,0
 California,06,Los Angeles,037,2019,9,OTHER,Culex stigmatosoma,1,37,0
@@ -12650,6 +12737,8 @@ California,06,San Joaquin,077,2019,9,GRAV,Culex quinquefasciatus,67,1780,5
 California,06,San Joaquin,077,2019,9,GRAV,Culex restuans,2,3,0
 California,06,San Joaquin,077,2019,9,GRAV,Culex stigmatosoma,1,3,0
 California,06,San Joaquin,077,2019,9,GRAV,Culex tarsalis,4,11,0
+California,06,San Joaquin,077,2019,9,NJLT,Culex pipiens,3,118,0
+California,06,San Joaquin,077,2019,9,NJLT,Culex tarsalis,3,84,0
 California,06,San Joaquin,077,2019,9,OTHER,Culex pipiens/restuans/salinarius,1,7,0
 California,06,Stanislaus,099,2019,9,BGS,Culex pipiens,3,61,1
 California,06,Stanislaus,099,2019,9,BGS,Culex quinquefasciatus,3,15,0
@@ -13744,6 +13833,7 @@ California,06,San Bernardino,071,2020,6,GRAV,Culex pipiens/restuans/salinarius,2
 California,06,San Bernardino,071,2020,6,GRAV,Culex quinquefasciatus,135,5650,2
 California,06,San Bernardino,071,2020,6,GRAV,Culex stigmatosoma,3,58,0
 California,06,San Bernardino,071,2020,6,GRAV,Culex tarsalis,4,4,0
+California,06,San Bernardino,071,2020,6,NJLT,Culex pipiens,1,22,0
 California,06,San Bernardino,071,2020,6,OTHER,Culex salinarius,2,4,0
 California,06,San Bernardino,071,2020,6,OTHER,Culex tarsalis,1,50,0
 California,06,San Joaquin,077,2020,6,BGS,Culex pipiens,18,265,0
@@ -13777,6 +13867,8 @@ California,06,Stanislaus,099,2020,6,GRAV,Culex pipiens/restuans/salinarius,7,179
 California,06,Stanislaus,099,2020,6,GRAV,Culex quinquefasciatus,84,3123,3
 California,06,Stanislaus,099,2020,6,GRAV,Culex stigmatosoma,5,31,0
 California,06,Stanislaus,099,2020,6,GRAV,Culex tarsalis,6,18,0
+California,06,Stanislaus,099,2020,6,NJLT,Culex pipiens,1,32,0
+California,06,Stanislaus,099,2020,6,NJLT,Culex tarsalis,1,11,0
 California,06,Stanislaus,099,2020,6,OTHER,Culex quinquefasciatus,1,50,0
 California,06,Stanislaus,099,2020,6,OTHER,Culex tarsalis,3,150,0
 California,06,Sutter,101,2020,6,BGS,Culex pipiens,3,42,0
@@ -13985,6 +14077,7 @@ California,06,Merced,047,2020,7,GRAV,Culex pipiens/restuans/salinarius,7,371,0
 California,06,Merced,047,2020,7,GRAV,Culex quinquefasciatus,53,1638,6
 California,06,Merced,047,2020,7,GRAV,Culex stigmatosoma,4,138,0
 California,06,Merced,047,2020,7,GRAV,Culex tarsalis,1,2,0
+California,06,Merced,047,2020,7,NJLT,Culex tarsalis,1,22,0
 California,06,Merced,047,2020,7,OTHER,Culex tarsalis,1,31,0
 California,06,Orange,059,2020,7,BGS,Culex pipiens,1,9,0
 California,06,Orange,059,2020,7,BGS,Culex pipiens/restuans/salinarius,1,30,0
@@ -14206,6 +14299,8 @@ California,06,Butte,007,2020,8,GRAV,Culex restuans,41,129,0
 California,06,Butte,007,2020,8,GRAV,Culex salinarius,41,75,0
 California,06,Butte,007,2020,8,GRAV,Culex stigmatosoma,16,100,1
 California,06,Butte,007,2020,8,GRAV,Culex tarsalis,68,464,2
+California,06,Butte,007,2020,8,NJLT,Culex pipiens,1,95,0
+California,06,Butte,007,2020,8,NJLT,Culex tarsalis,1,27,0
 California,06,Butte,007,2020,8,OTHER,Culex pipiens,2,43,0
 California,06,Butte,007,2020,8,OTHER,Culex pipiens/restuans/salinarius,1,3,0
 California,06,Butte,007,2020,8,OTHER,Culex salinarius,1,27,0
@@ -14393,6 +14488,8 @@ California,06,San Bernardino,071,2020,8,GRAV,Culex quinquefasciatus,129,3771,23
 California,06,San Bernardino,071,2020,8,GRAV,Culex salinarius,2,50,0
 California,06,San Bernardino,071,2020,8,GRAV,Culex stigmatosoma,1,47,0
 California,06,San Bernardino,071,2020,8,GRAV,Culex tarsalis,15,21,1
+California,06,San Bernardino,071,2020,8,NJLT,Culex pipiens,2,104,0
+California,06,San Bernardino,071,2020,8,NJLT,Culex tarsalis,1,18,0
 California,06,San Bernardino,071,2020,8,OTHER,Culex pipiens/restuans/salinarius,1,4,0
 California,06,San Bernardino,071,2020,8,OTHER,Culex restuans,1,1,0
 California,06,San Bernardino,071,2020,8,OTHER,Culex tarsalis,2,14,0
@@ -14460,6 +14557,7 @@ California,06,Yolo,113,2020,8,GRAV,Culex pipiens/quinquefasciatus/restuans,17,10
 California,06,Yolo,113,2020,8,GRAV,Culex pipiens/restuans/salinarius,14,493,5
 California,06,Yolo,113,2020,8,GRAV,Culex quinquefasciatus,41,1123,9
 California,06,Yolo,113,2020,8,GRAV,Culex tarsalis,5,12,0
+California,06,Yolo,113,2020,8,NJLT,Culex tarsalis,1,50,0
 California,06,Yolo,113,2020,8,OTHER,Culex pipiens/quinquefasciatus/restuans,1,1,0
 California,06,Yolo,113,2020,8,OTHER,Culex pipiens/restuans/salinarius,1,2,0
 California,06,Yolo,113,2020,8,OTHER,Culex tarsalis,2,37,0
@@ -14585,6 +14683,8 @@ California,06,Los Angeles,037,2020,9,GRAV,Culex restuans,12,44,0
 California,06,Los Angeles,037,2020,9,GRAV,Culex salinarius,5,38,0
 California,06,Los Angeles,037,2020,9,GRAV,Culex stigmatosoma,7,197,0
 California,06,Los Angeles,037,2020,9,GRAV,Culex tarsalis,26,168,0
+California,06,Los Angeles,037,2020,9,NJLT,Culex pipiens,1,83,0
+California,06,Los Angeles,037,2020,9,NJLT,Culex tarsalis,1,17,0
 California,06,Los Angeles,037,2020,9,OTHER,Culex pipiens,1,1,0
 California,06,Los Angeles,037,2020,9,OTHER,Culex pipiens/restuans/salinarius,1,21,0
 California,06,Los Angeles,037,2020,9,OTHER,Culex salinarius,1,1,0
@@ -15437,8 +15537,8 @@ California,06,Colusa,011,2021,5,CO2,Culex stigmatosoma,1,31,0
 California,06,Colusa,011,2021,5,CO2,Culex tarsalis,3,59,0
 California,06,Colusa,011,2021,5,GRAV,Culex pipiens,2,11,0
 California,06,Fresno,019,2021,5,BGS,Culex pipiens,1,15,0
-California,06,Fresno,019,2021,5,BGS,Culex quinquefasciatus,13,206,0
-California,06,Fresno,019,2021,5,BGS,Culex tarsalis,2,17,0
+California,06,Fresno,019,2021,5,BGS,Culex quinquefasciatus,15,255,0
+California,06,Fresno,019,2021,5,BGS,Culex tarsalis,4,48,0
 California,06,Fresno,019,2021,5,CO2,Culex pipiens,43,606,0
 California,06,Fresno,019,2021,5,CO2,Culex pipiens/restuans/salinarius,1,5,0
 California,06,Fresno,019,2021,5,CO2,Culex quinquefasciatus,116,826,0
@@ -15449,7 +15549,9 @@ California,06,Fresno,019,2021,5,GRAV,Culex pipiens/quinquefasciatus,28,1050,0
 California,06,Fresno,019,2021,5,GRAV,Culex pipiens/restuans/salinarius,50,2094,0
 California,06,Fresno,019,2021,5,GRAV,Culex quinquefasciatus,54,3358,0
 California,06,Fresno,019,2021,5,GRAV,Culex restuans,1,28,0
+California,06,Fresno,019,2021,5,GRAV,Culex stigmatosoma,1,16,0
 California,06,Fresno,019,2021,5,GRAV,Culex tarsalis,3,4,0
+California,06,Fresno,019,2021,5,NJLT,Culex pipiens/restuans/salinarius,5,30,0
 California,06,Glenn,021,2021,5,CO2,Culex pipiens,5,85,0
 California,06,Glenn,021,2021,5,CO2,Culex quinquefasciatus,8,138,0
 California,06,Glenn,021,2021,5,CO2,Culex tarsalis,18,624,0
@@ -15619,14 +15721,14 @@ California,06,Sutter,101,2021,5,CO2,Culex tarsalis,3,45,0
 California,06,Sutter,101,2021,5,GRAV,Culex pipiens/quinquefasciatus,13,373,0
 California,06,Sutter,101,2021,5,GRAV,Culex pipiens/quinquefasciatus/restuans,1,16,0
 California,06,Sutter,101,2021,5,GRAV,Culex quinquefasciatus,2,56,0
-California,06,Tulare,107,2021,5,BGS,Culex quinquefasciatus,6,90,0
+California,06,Tulare,107,2021,5,BGS,Culex quinquefasciatus,12,181,0
 California,06,Tulare,107,2021,5,CO2,Culex pipiens,1,15,0
-California,06,Tulare,107,2021,5,CO2,Culex quinquefasciatus,21,69,0
-California,06,Tulare,107,2021,5,CO2,Culex tarsalis,12,392,0
+California,06,Tulare,107,2021,5,CO2,Culex quinquefasciatus,25,224,0
+California,06,Tulare,107,2021,5,CO2,Culex tarsalis,13,402,0
 California,06,Tulare,107,2021,5,GRAV,Culex pipiens,2,6,0
 California,06,Tulare,107,2021,5,GRAV,Culex pipiens/quinquefasciatus/restuans,3,100,0
 California,06,Tulare,107,2021,5,GRAV,Culex pipiens/restuans/salinarius,2,50,0
-California,06,Tulare,107,2021,5,GRAV,Culex quinquefasciatus,13,399,0
+California,06,Tulare,107,2021,5,GRAV,Culex quinquefasciatus,25,593,0
 California,06,Tulare,107,2021,5,GRAV,Culex stigmatosoma,1,29,0
 California,06,Tulare,107,2021,5,OTHER,Culex pipiens/restuans/salinarius,1,1,0
 California,06,Yolo,113,2021,5,BGS,Culex quinquefasciatus,16,244,0
@@ -15856,6 +15958,7 @@ California,06,Sacramento,067,2021,6,GRAV,Culex restuans,3,43,0
 California,06,Sacramento,067,2021,6,GRAV,Culex salinarius,1,11,0
 California,06,Sacramento,067,2021,6,GRAV,Culex stigmatosoma,3,37,0
 California,06,Sacramento,067,2021,6,GRAV,Culex tarsalis,9,24,0
+California,06,Sacramento,067,2021,6,NJLT,Culex pipiens,2,32,0
 California,06,Sacramento,067,2021,6,OTHER,Culex pipiens,5,74,0
 California,06,Sacramento,067,2021,6,OTHER,Culex restuans,1,1,0
 California,06,Sacramento,067,2021,6,OTHER,Culex tarsalis,15,519,0
@@ -16088,6 +16191,8 @@ California,06,Los Angeles,037,2021,7,GRAV,Culex restuans,2,31,0
 California,06,Los Angeles,037,2021,7,GRAV,Culex salinarius,1,15,0
 California,06,Los Angeles,037,2021,7,GRAV,Culex stigmatosoma,6,119,0
 California,06,Los Angeles,037,2021,7,GRAV,Culex tarsalis,21,72,0
+California,06,Los Angeles,037,2021,7,NJLT,Culex pipiens,2,25,0
+California,06,Los Angeles,037,2021,7,NJLT,Culex tarsalis,1,89,0
 California,06,Los Angeles,037,2021,7,OTHER,Culex pipiens,1,35,0
 California,06,Los Angeles,037,2021,7,OTHER,Culex pipiens/restuans/salinarius,2,5,0
 California,06,Los Angeles,037,2021,7,OTHER,Culex salinarius,3,113,0
@@ -16338,6 +16443,7 @@ California,06,Fresno,019,2021,8,GRAV,Culex quinquefasciatus,107,2898,8
 California,06,Fresno,019,2021,8,GRAV,Culex restuans,1,48,0
 California,06,Fresno,019,2021,8,GRAV,Culex salinarius,1,17,0
 California,06,Fresno,019,2021,8,GRAV,Culex tarsalis,11,27,0
+California,06,Fresno,019,2021,8,NJLT,Culex pipiens,3,101,0
 California,06,Fresno,019,2021,8,OTHER,Culex pipiens/restuans/salinarius,2,24,0
 California,06,Glenn,021,2021,8,BGS,Culex pipiens,3,239,0
 California,06,Glenn,021,2021,8,BGS,Culex quinquefasciatus,1,12,0
@@ -16349,6 +16455,7 @@ California,06,Glenn,021,2021,8,GRAV,Culex pipiens,1,45,1
 California,06,Glenn,021,2021,8,GRAV,Culex pipiens/quinquefasciatus/restuans,1,20,0
 California,06,Glenn,021,2021,8,GRAV,Culex pipiens/restuans/salinarius,3,84,0
 California,06,Glenn,021,2021,8,GRAV,Culex quinquefasciatus,17,579,1
+California,06,Glenn,021,2021,8,NJLT,Culex pipiens,1,21,0
 California,06,Glenn,021,2021,8,OTHER,Culex tarsalis,7,243,0
 California,06,Kern,029,2021,8,BGS,Culex pipiens,7,156,1
 California,06,Kern,029,2021,8,BGS,Culex quinquefasciatus,30,594,0
@@ -16483,6 +16590,7 @@ California,06,Riverside,065,2021,8,GRAV,Culex restuans,1,13,0
 California,06,Riverside,065,2021,8,GRAV,Culex salinarius,1,13,0
 California,06,Riverside,065,2021,8,GRAV,Culex stigmatosoma,1,13,0
 California,06,Riverside,065,2021,8,GRAV,Culex tarsalis,26,92,1
+California,06,Riverside,065,2021,8,NJLT,Culex pipiens,1,57,0
 California,06,Riverside,065,2021,8,OTHER,Culex pipiens/restuans/salinarius,3,21,1
 California,06,Riverside,065,2021,8,OTHER,Culex quinquefasciatus,1,26,0
 California,06,Riverside,065,2021,8,OTHER,Culex tarsalis,3,150,0
@@ -16521,6 +16629,7 @@ California,06,San Bernardino,071,2021,8,GRAV,Culex pipiens/restuans/salinarius,3
 California,06,San Bernardino,071,2021,8,GRAV,Culex quinquefasciatus,108,3544,11
 California,06,San Bernardino,071,2021,8,GRAV,Culex stigmatosoma,1,47,0
 California,06,San Bernardino,071,2021,8,GRAV,Culex tarsalis,14,53,2
+California,06,San Bernardino,071,2021,8,NJLT,Culex pipiens/restuans/salinarius,2,131,2
 California,06,San Bernardino,071,2021,8,OTHER,Culex pipiens/restuans/salinarius,1,1,0
 California,06,San Joaquin,077,2021,8,BGS,Culex pipiens,14,378,1
 California,06,San Joaquin,077,2021,8,BGS,Culex quinquefasciatus,10,246,1
@@ -16604,6 +16713,7 @@ California,06,Yolo,113,2021,8,GRAV,Culex pipiens/restuans/salinarius,24,946,13
 California,06,Yolo,113,2021,8,GRAV,Culex quinquefasciatus,66,2188,18
 California,06,Yolo,113,2021,8,GRAV,Culex stigmatosoma,1,5,0
 California,06,Yolo,113,2021,8,GRAV,Culex tarsalis,4,33,0
+California,06,Yolo,113,2021,8,NJLT,Culex pipiens,1,25,0
 California,06,Yuba,115,2021,8,BGS,Culex quinquefasciatus,3,95,0
 California,06,Yuba,115,2021,8,CO2,Culex pipiens,4,46,0
 California,06,Yuba,115,2021,8,CO2,Culex quinquefasciatus,7,30,0
@@ -16646,6 +16756,7 @@ California,06,Fresno,019,2021,9,GRAV,Culex pipiens/restuans/salinarius,27,742,6
 California,06,Fresno,019,2021,9,GRAV,Culex quinquefasciatus,161,6296,17
 California,06,Fresno,019,2021,9,GRAV,Culex stigmatosoma,5,57,0
 California,06,Fresno,019,2021,9,GRAV,Culex tarsalis,45,183,0
+California,06,Fresno,019,2021,9,NJLT,Culex pipiens/restuans/salinarius,3,167,0
 California,06,Fresno,019,2021,9,OTHER,Culex pipiens/restuans/salinarius,2,10,0
 California,06,Fresno,019,2021,9,OTHER,Culex restuans,1,1,0
 California,06,Glenn,021,2021,9,BGS,Culex quinquefasciatus,4,110,0
@@ -16677,6 +16788,7 @@ California,06,Kern,029,2021,9,GRAV,Culex restuans,2,83,0
 California,06,Kern,029,2021,9,GRAV,Culex salinarius,1,7,0
 California,06,Kern,029,2021,9,GRAV,Culex stigmatosoma,4,60,0
 California,06,Kern,029,2021,9,GRAV,Culex tarsalis,39,104,0
+California,06,Kern,029,2021,9,NJLT,Culex pipiens/restuans/salinarius,4,86,0
 California,06,Kern,029,2021,9,OTHER,Culex pipiens/restuans/salinarius,3,6,0
 California,06,Kern,029,2021,9,OTHER,Culex restuans,1,2,0
 California,06,Kern,029,2021,9,OTHER,Culex tarsalis,1,1,0
@@ -16711,6 +16823,7 @@ California,06,Los Angeles,037,2021,9,GRAV,Culex pipiens/restuans/salinarius,63,1
 California,06,Los Angeles,037,2021,9,GRAV,Culex quinquefasciatus,176,5689,11
 California,06,Los Angeles,037,2021,9,GRAV,Culex stigmatosoma,4,32,0
 California,06,Los Angeles,037,2021,9,GRAV,Culex tarsalis,12,41,0
+California,06,Los Angeles,037,2021,9,NJLT,Culex pipiens/restuans/salinarius,1,65,1
 California,06,Los Angeles,037,2021,9,OTHER,Culex pipiens/restuans/salinarius,3,27,0
 California,06,Los Angeles,037,2021,9,OTHER,Culex tarsalis,1,11,0
 California,06,Madera,039,2021,9,BGS,Culex pipiens,5,64,0
@@ -16760,6 +16873,7 @@ California,06,Orange,059,2021,9,GRAV,Culex pipiens/restuans/salinarius,55,2067,2
 California,06,Orange,059,2021,9,GRAV,Culex quinquefasciatus,57,1633,8
 California,06,Orange,059,2021,9,GRAV,Culex stigmatosoma,1,7,0
 California,06,Orange,059,2021,9,GRAV,Culex tarsalis,15,30,0
+California,06,Orange,059,2021,9,NJLT,Culex pipiens/restuans/salinarius,10,483,2
 California,06,Orange,059,2021,9,OTHER,Culex pipiens/restuans/salinarius,2,2,0
 California,06,Placer,061,2021,9,BGS,Culex pipiens,8,83,1
 California,06,Placer,061,2021,9,BGS,Culex quinquefasciatus,6,186,0
@@ -16799,6 +16913,7 @@ California,06,Riverside,065,2021,9,GRAV,Culex quinquefasciatus,150,5033,11
 California,06,Riverside,065,2021,9,GRAV,Culex restuans,1,1,0
 California,06,Riverside,065,2021,9,GRAV,Culex stigmatosoma,1,21,0
 California,06,Riverside,065,2021,9,GRAV,Culex tarsalis,6,16,0
+California,06,Riverside,065,2021,9,NJLT,Culex pipiens/restuans/salinarius,1,45,0
 California,06,Riverside,065,2021,9,OTHER,Culex pipiens/restuans/salinarius,2,20,2
 California,06,Riverside,065,2021,9,OTHER,Culex stigmatosoma,1,1,0
 California,06,Riverside,065,2021,9,OTHER,Culex tarsalis,9,346,1
@@ -16855,6 +16970,7 @@ California,06,San Joaquin,077,2021,9,GRAV,Culex pipiens/quinquefasciatus/restuan
 California,06,San Joaquin,077,2021,9,GRAV,Culex pipiens/restuans/salinarius,5,105,1
 California,06,San Joaquin,077,2021,9,GRAV,Culex quinquefasciatus,93,2862,10
 California,06,San Joaquin,077,2021,9,GRAV,Culex tarsalis,7,19,0
+California,06,San Joaquin,077,2021,9,NJLT,Culex pipiens/restuans/salinarius,5,101,1
 California,06,San Joaquin,077,2021,9,OTHER,Culex pipiens/restuans/salinarius,2,10,0
 California,06,Stanislaus,099,2021,9,BGS,Culex pipiens,19,413,0
 California,06,Stanislaus,099,2021,9,BGS,Culex pipiens/restuans/salinarius,1,1,0
@@ -16900,6 +17016,7 @@ California,06,Tulare,107,2021,9,GRAV,Culex pipiens/restuans/salinarius,8,159,2
 California,06,Tulare,107,2021,9,GRAV,Culex quinquefasciatus,50,1344,6
 California,06,Tulare,107,2021,9,GRAV,Culex restuans,3,49,1
 California,06,Tulare,107,2021,9,GRAV,Culex tarsalis,5,16,0
+California,06,Tulare,107,2021,9,NJLT,Culex pipiens/restuans/salinarius,1,22,0
 California,06,Tulare,107,2021,9,OTHER,Culex pipiens/restuans/salinarius,3,4,0
 California,06,Tulare,107,2021,9,OTHER,Culex restuans,1,1,0
 California,06,Yolo,113,2021,9,BGS,Culex pipiens,7,160,0
@@ -17124,6 +17241,7 @@ California,06,Tulare,107,2021,10,GRAV,Culex pipiens/quinquefasciatus/restuans,1,
 California,06,Tulare,107,2021,10,GRAV,Culex pipiens/restuans/salinarius,24,734,6
 California,06,Tulare,107,2021,10,GRAV,Culex quinquefasciatus,17,320,0
 California,06,Tulare,107,2021,10,GRAV,Culex stigmatosoma,1,1,0
+California,06,Tulare,107,2021,10,NJLT,Culex pipiens/restuans/salinarius,2,28,0
 California,06,Tulare,107,2021,10,OTHER,Culex pipiens/restuans/salinarius,1,8,0
 California,06,Yolo,113,2021,10,BGS,Culex pipiens,1,48,0
 California,06,Yolo,113,2021,10,BGS,Culex quinquefasciatus,15,376,0
@@ -17548,6 +17666,7 @@ California,06,Merced,047,2022,5,GRAV,Culex pipiens,5,42,0
 California,06,Merced,047,2022,5,GRAV,Culex pipiens/quinquefasciatus/restuans,9,303,0
 California,06,Merced,047,2022,5,GRAV,Culex pipiens/restuans/salinarius,10,404,0
 California,06,Merced,047,2022,5,GRAV,Culex quinquefasciatus,10,230,0
+California,06,Merced,047,2022,5,NJLT,Culex pipiens/restuans/salinarius,1,1,0
 California,06,Orange,059,2022,5,BGS,Culex pipiens,1,2,0
 California,06,Orange,059,2022,5,BGS,Culex quinquefasciatus,84,1976,0
 California,06,Orange,059,2022,5,BGS,Culex tarsalis,4,137,0
@@ -17725,6 +17844,8 @@ California,06,Los Angeles,037,2022,6,GRAV,Culex quinquefasciatus,1265,43602,57
 California,06,Los Angeles,037,2022,6,GRAV,Culex restuans,8,345,0
 California,06,Los Angeles,037,2022,6,GRAV,Culex stigmatosoma,18,208,0
 California,06,Los Angeles,037,2022,6,GRAV,Culex tarsalis,74,242,0
+California,06,Los Angeles,037,2022,6,NJLT,Culex pipiens,1,23,0
+California,06,Los Angeles,037,2022,6,NJLT,Culex pipiens/restuans/salinarius,3,200,0
 California,06,Los Angeles,037,2022,6,OTHER,Culex pipiens,4,66,0
 California,06,Los Angeles,037,2022,6,OTHER,Culex pipiens/restuans/salinarius,2,7,0
 California,06,Los Angeles,037,2022,6,OTHER,Culex tarsalis,40,1550,0
@@ -17866,6 +17987,7 @@ California,06,Los Angeles,037,2022,7,GRAV,Culex quinquefasciatus,1499,46783,226
 California,06,Los Angeles,037,2022,7,GRAV,Culex restuans,6,118,0
 California,06,Los Angeles,037,2022,7,GRAV,Culex stigmatosoma,21,254,0
 California,06,Los Angeles,037,2022,7,GRAV,Culex tarsalis,230,896,0
+California,06,Los Angeles,037,2022,7,NJLT,Culex pipiens,3,89,0
 California,06,Los Angeles,037,2022,7,OTHER,Culex pipiens,1,13,0
 California,06,Los Angeles,037,2022,7,OTHER,Culex pipiens/restuans/salinarius,4,39,0
 California,06,Los Angeles,037,2022,7,OTHER,Culex salinarius,1,5,0
@@ -17935,6 +18057,7 @@ California,06,Fresno,019,2022,8,GRAV,Culex pipiens/restuans/salinarius,72,2638,2
 California,06,Fresno,019,2022,8,GRAV,Culex quinquefasciatus,83,2291,29
 California,06,Fresno,019,2022,8,GRAV,Culex stigmatosoma,5,88,0
 California,06,Fresno,019,2022,8,GRAV,Culex tarsalis,16,77,0
+California,06,Fresno,019,2022,8,NJLT,Culex pipiens/restuans/salinarius,1,32,1
 California,06,Fresno,019,2022,8,OTHER,Culex tarsalis,1,2,0
 California,06,Glenn,021,2022,8,CO2,Culex pipiens,1,1,0
 California,06,Glenn,021,2022,8,CO2,Culex tarsalis,1,40,0
@@ -18014,6 +18137,7 @@ California,06,Orange,059,2022,8,GRAV,Culex pipiens/quinquefasciatus/restuans,7,6
 California,06,Orange,059,2022,8,GRAV,Culex pipiens/restuans/salinarius,123,4610,12
 California,06,Orange,059,2022,8,GRAV,Culex quinquefasciatus,125,5532,25
 California,06,Orange,059,2022,8,GRAV,Culex tarsalis,3,29,0
+California,06,Orange,059,2022,8,NJLT,Culex pipiens/restuans/salinarius,2,78,0
 California,06,Placer,061,2022,8,BGS,Culex quinquefasciatus,1,9,0
 California,06,Placer,061,2022,8,CO2,Culex pipiens,9,196,0
 California,06,Placer,061,2022,8,CO2,Culex quinquefasciatus,27,464,5
@@ -18043,6 +18167,7 @@ California,06,Riverside,065,2022,8,GRAV,Culex restuans,1,1,0
 California,06,Riverside,065,2022,8,GRAV,Culex salinarius,1,17,0
 California,06,Riverside,065,2022,8,GRAV,Culex stigmatosoma,7,168,0
 California,06,Riverside,065,2022,8,GRAV,Culex tarsalis,19,53,0
+California,06,Riverside,065,2022,8,NJLT,Culex pipiens,1,50,0
 California,06,Riverside,065,2022,8,OTHER,Culex tarsalis,3,39,0
 California,06,Sacramento,067,2022,8,BGS,Culex pipiens,17,626,3
 California,06,Sacramento,067,2022,8,BGS,Culex quinquefasciatus,37,513,7
@@ -18215,6 +18340,8 @@ California,06,Los Angeles,037,2022,9,GRAV,Culex restuans,6,80,2
 California,06,Los Angeles,037,2022,9,GRAV,Culex salinarius,1,3,0
 California,06,Los Angeles,037,2022,9,GRAV,Culex stigmatosoma,5,25,0
 California,06,Los Angeles,037,2022,9,GRAV,Culex tarsalis,61,182,1
+California,06,Los Angeles,037,2022,9,NJLT,Culex pipiens,4,77,0
+California,06,Los Angeles,037,2022,9,NJLT,Culex pipiens/restuans/salinarius,4,203,0
 California,06,Los Angeles,037,2022,9,OTHER,Culex pipiens,2,32,0
 California,06,Los Angeles,037,2022,9,OTHER,Culex pipiens/restuans/salinarius,2,20,0
 California,06,Los Angeles,037,2022,9,OTHER,Culex restuans,1,3,0
@@ -18383,6 +18510,7 @@ California,06,Butte,007,2022,10,CO2,Culex tarsalis,23,381,1
 California,06,Butte,007,2022,10,GRAV,Culex pipiens,6,73,0
 California,06,Butte,007,2022,10,GRAV,Culex pipiens/restuans/salinarius,6,26,0
 California,06,Butte,007,2022,10,GRAV,Culex quinquefasciatus,28,865,0
+California,06,Butte,007,2022,10,NJLT,Culex pipiens/restuans/salinarius,1,2,0
 California,06,Colusa,011,2022,10,CO2,Culex pipiens,1,50,0
 California,06,Colusa,011,2022,10,CO2,Culex tarsalis,8,273,0
 California,06,Colusa,011,2022,10,GRAV,Culex pipiens/restuans/salinarius,3,70,0
@@ -19183,6 +19311,7 @@ California,06,Kern,029,2023,5,GRAV,Culex quinquefasciatus,340,20107,0
 California,06,Kern,029,2023,5,GRAV,Culex restuans,2,31,0
 California,06,Kern,029,2023,5,GRAV,Culex stigmatosoma,2,100,0
 California,06,Kern,029,2023,5,GRAV,Culex tarsalis,4,109,0
+California,06,Kern,029,2023,5,NJLT,Culex salinarius,2,60,0
 California,06,Kings,031,2023,5,BGS,Culex pipiens,1,3,0
 California,06,Kings,031,2023,5,BGS,Culex quinquefasciatus,4,187,0
 California,06,Kings,031,2023,5,BGS,Culex tarsalis,1,50,0
@@ -19436,6 +19565,10 @@ California,06,Fresno,019,2023,6,GRAV,Culex quinquefasciatus,416,21289,11
 California,06,Fresno,019,2023,6,GRAV,Culex restuans,2,45,0
 California,06,Fresno,019,2023,6,GRAV,Culex stigmatosoma,4,33,0
 California,06,Fresno,019,2023,6,GRAV,Culex tarsalis,29,339,0
+California,06,Fresno,019,2023,6,NJLT,Culex pipiens,1,62,0
+California,06,Fresno,019,2023,6,NJLT,Culex pipiens/restuans/salinarius,1,3,0
+California,06,Fresno,019,2023,6,NJLT,Culex quinquefasciatus,1,6,0
+California,06,Fresno,019,2023,6,NJLT,Culex tarsalis,4,212,0
 California,06,Fresno,019,2023,6,OTHER,Culex pipiens,1,5,0
 California,06,Fresno,019,2023,6,OTHER,Culex tarsalis,11,379,0
 California,06,Glenn,021,2023,6,BGS,Culex pipiens,1,5,0
@@ -19543,6 +19676,7 @@ California,06,Merced,047,2023,6,GRAV,Culex quinquefasciatus,320,16269,10
 California,06,Merced,047,2023,6,GRAV,Culex restuans,1,2,0
 California,06,Merced,047,2023,6,GRAV,Culex stigmatosoma,11,81,0
 California,06,Merced,047,2023,6,GRAV,Culex tarsalis,16,141,0
+California,06,Merced,047,2023,6,NJLT,Culex pipiens/restuans/salinarius,7,277,0
 California,06,Merced,047,2023,6,OTHER,Culex tarsalis,2,51,0
 California,06,Orange,059,2023,6,BGS,Culex pipiens,44,1268,4
 California,06,Orange,059,2023,6,BGS,Culex quinquefasciatus,156,5393,3
@@ -19561,6 +19695,7 @@ California,06,Orange,059,2023,6,GRAV,Culex pipiens/restuans/salinarius,63,3061,0
 California,06,Orange,059,2023,6,GRAV,Culex quinquefasciatus,264,16468,4
 California,06,Orange,059,2023,6,GRAV,Culex stigmatosoma,3,55,0
 California,06,Orange,059,2023,6,GRAV,Culex tarsalis,13,171,0
+California,06,Orange,059,2023,6,NJLT,Culex tarsalis,1,15,0
 California,06,Orange,059,2023,6,OTHER,Culex pipiens,7,119,0
 California,06,Orange,059,2023,6,OTHER,Culex tarsalis,17,594,0
 California,06,Placer,061,2023,6,BGS,Culex pipiens,5,134,0
@@ -19602,6 +19737,7 @@ California,06,Riverside,065,2023,6,GRAV,Culex pipiens/restuans/salinarius,52,180
 California,06,Riverside,065,2023,6,GRAV,Culex quinquefasciatus,443,25230,14
 California,06,Riverside,065,2023,6,GRAV,Culex stigmatosoma,6,61,0
 California,06,Riverside,065,2023,6,GRAV,Culex tarsalis,19,139,0
+California,06,Riverside,065,2023,6,NJLT,Culex pipiens/restuans/salinarius,4,168,0
 California,06,Riverside,065,2023,6,OTHER,Culex pipiens,2,23,0
 California,06,Riverside,065,2023,6,OTHER,Culex tarsalis,18,895,0
 California,06,Sacramento,067,2023,6,BGS,Culex pipiens,32,510,1
@@ -19624,6 +19760,7 @@ California,06,Sacramento,067,2023,6,GRAV,Culex quinquefasciatus,250,13596,3
 California,06,Sacramento,067,2023,6,GRAV,Culex restuans,2,77,0
 California,06,Sacramento,067,2023,6,GRAV,Culex stigmatosoma,3,27,0
 California,06,Sacramento,067,2023,6,GRAV,Culex tarsalis,14,152,0
+California,06,Sacramento,067,2023,6,NJLT,Culex pipiens/restuans/salinarius,2,93,0
 California,06,Sacramento,067,2023,6,OTHER,Culex pipiens,3,58,0
 California,06,Sacramento,067,2023,6,OTHER,Culex tarsalis,5,255,0
 California,06,San Bernardino,071,2023,6,BGS,Culex pipiens,15,255,1
@@ -19663,6 +19800,7 @@ California,06,San Joaquin,077,2023,6,GRAV,Culex quinquefasciatus,107,5528,2
 California,06,San Joaquin,077,2023,6,GRAV,Culex restuans,1,21,0
 California,06,San Joaquin,077,2023,6,GRAV,Culex stigmatosoma,3,38,0
 California,06,San Joaquin,077,2023,6,GRAV,Culex tarsalis,18,105,0
+California,06,San Joaquin,077,2023,6,NJLT,Culex salinarius,1,5,0
 California,06,San Joaquin,077,2023,6,OTHER,Culex pipiens,1,24,0
 California,06,San Joaquin,077,2023,6,OTHER,Culex tarsalis,3,89,0
 California,06,Stanislaus,099,2023,6,BGS,Culex pipiens,3,21,0
@@ -19693,6 +19831,7 @@ California,06,Sutter,101,2023,6,GRAV,Culex pipiens/quinquefasciatus/restuans,8,3
 California,06,Sutter,101,2023,6,GRAV,Culex pipiens/restuans/salinarius,6,311,0
 California,06,Sutter,101,2023,6,GRAV,Culex quinquefasciatus,35,1667,0
 California,06,Sutter,101,2023,6,GRAV,Culex tarsalis,1,1,0
+California,06,Sutter,101,2023,6,NJLT,Culex pipiens/restuans/salinarius,1,34,0
 California,06,Tulare,107,2023,6,BGS,Culex pipiens,33,568,0
 California,06,Tulare,107,2023,6,BGS,Culex quinquefasciatus,162,4087,0
 California,06,Tulare,107,2023,6,BGS,Culex stigmatosoma,4,42,0
@@ -19742,6 +19881,7 @@ California,06,Yuba,115,2023,6,CO2,Culex tarsalis,43,2050,0
 California,06,Yuba,115,2023,6,GRAV,Culex pipiens/quinquefasciatus/restuans,5,281,0
 California,06,Yuba,115,2023,6,GRAV,Culex pipiens/restuans/salinarius,2,98,0
 California,06,Yuba,115,2023,6,GRAV,Culex quinquefasciatus,26,1289,0
+California,06,Yuba,115,2023,6,NJLT,Culex pipiens/restuans/salinarius,4,127,1
 California,06,Butte,007,2023,7,BGS,Culex pipiens,7,170,1
 California,06,Butte,007,2023,7,BGS,Culex quinquefasciatus,27,668,2
 California,06,Butte,007,2023,7,BGS,Culex restuans,1,13,0
@@ -19787,6 +19927,7 @@ California,06,Fresno,019,2023,7,GRAV,Culex restuans,4,87,0
 California,06,Fresno,019,2023,7,GRAV,Culex salinarius,1,2,0
 California,06,Fresno,019,2023,7,GRAV,Culex stigmatosoma,1,16,0
 California,06,Fresno,019,2023,7,GRAV,Culex tarsalis,21,130,0
+California,06,Fresno,019,2023,7,NJLT,Culex quinquefasciatus,1,9,0
 California,06,Fresno,019,2023,7,OTHER,Culex pipiens/restuans/salinarius,1,5,0
 California,06,Fresno,019,2023,7,OTHER,Culex salinarius,1,2,0
 California,06,Fresno,019,2023,7,OTHER,Culex tarsalis,4,155,0
@@ -19822,6 +19963,8 @@ California,06,Kern,029,2023,7,GRAV,Culex quinquefasciatus,172,6897,24
 California,06,Kern,029,2023,7,GRAV,Culex restuans,1,3,0
 California,06,Kern,029,2023,7,GRAV,Culex stigmatosoma,4,41,0
 California,06,Kern,029,2023,7,GRAV,Culex tarsalis,13,53,0
+California,06,Kern,029,2023,7,NJLT,Culex pipiens/restuans/salinarius,4,154,0
+California,06,Kern,029,2023,7,NJLT,Culex salinarius,1,11,0
 California,06,Kern,029,2023,7,OTHER,Culex tarsalis,10,500,1
 California,06,Kings,031,2023,7,BGS,Culex pipiens,10,607,0
 California,06,Kings,031,2023,7,BGS,Culex quinquefasciatus,19,591,0
@@ -19855,6 +19998,8 @@ California,06,Los Angeles,037,2023,7,GRAV,Culex pipiens/restuans/salinarius,55,2
 California,06,Los Angeles,037,2023,7,GRAV,Culex quinquefasciatus,126,5859,5
 California,06,Los Angeles,037,2023,7,GRAV,Culex stigmatosoma,3,30,1
 California,06,Los Angeles,037,2023,7,GRAV,Culex tarsalis,22,150,0
+California,06,Los Angeles,037,2023,7,NJLT,Culex pipiens,2,37,0
+California,06,Los Angeles,037,2023,7,NJLT,Culex tarsalis,4,216,0
 California,06,Los Angeles,037,2023,7,OTHER,Culex pipiens,1,6,0
 California,06,Los Angeles,037,2023,7,OTHER,Culex pipiens/restuans/salinarius,1,59,0
 California,06,Los Angeles,037,2023,7,OTHER,Culex tarsalis,6,273,2
@@ -19894,6 +20039,7 @@ California,06,Merced,047,2023,7,GRAV,Culex pipiens/quinquefasciatus/restuans,24,
 California,06,Merced,047,2023,7,GRAV,Culex pipiens/restuans/salinarius,27,1501,9
 California,06,Merced,047,2023,7,GRAV,Culex quinquefasciatus,144,6477,17
 California,06,Merced,047,2023,7,GRAV,Culex tarsalis,14,82,0
+California,06,Merced,047,2023,7,NJLT,Culex pipiens/restuans/salinarius,5,241,0
 California,06,Orange,059,2023,7,BGS,Culex pipiens,5,55,1
 California,06,Orange,059,2023,7,BGS,Culex quinquefasciatus,33,696,0
 California,06,Orange,059,2023,7,BGS,Culex tarsalis,17,429,1
@@ -19929,6 +20075,7 @@ California,06,Placer,061,2023,7,GRAV,Culex pipiens/restuans/salinarius,14,496,0
 California,06,Placer,061,2023,7,GRAV,Culex quinquefasciatus,90,3026,12
 California,06,Placer,061,2023,7,GRAV,Culex stigmatosoma,2,16,1
 California,06,Placer,061,2023,7,GRAV,Culex tarsalis,8,122,0
+California,06,Placer,061,2023,7,NJLT,Culex tarsalis,1,32,0
 California,06,Riverside,065,2023,7,BGS,Culex pipiens,15,295,1
 California,06,Riverside,065,2023,7,BGS,Culex quinquefasciatus,39,1002,3
 California,06,Riverside,065,2023,7,BGS,Culex stigmatosoma,1,15,0
@@ -20053,6 +20200,9 @@ California,06,Tulare,107,2023,7,GRAV,Culex restuans,2,6,0
 California,06,Tulare,107,2023,7,GRAV,Culex salinarius,11,74,0
 California,06,Tulare,107,2023,7,GRAV,Culex stigmatosoma,1,5,0
 California,06,Tulare,107,2023,7,GRAV,Culex tarsalis,4,21,1
+California,06,Tulare,107,2023,7,NJLT,Culex pipiens,1,27,0
+California,06,Tulare,107,2023,7,NJLT,Culex pipiens/restuans/salinarius,5,250,0
+California,06,Tulare,107,2023,7,NJLT,Culex tarsalis,2,33,0
 California,06,Tulare,107,2023,7,OTHER,Culex salinarius,4,203,0
 California,06,Yolo,113,2023,7,BGS,Culex pipiens,1,17,0
 California,06,Yolo,113,2023,7,BGS,Culex quinquefasciatus,18,482,4
@@ -20296,6 +20446,8 @@ California,06,Placer,061,2023,8,GRAV,Culex quinquefasciatus,134,4993,26
 California,06,Placer,061,2023,8,GRAV,Culex salinarius,3,32,0
 California,06,Placer,061,2023,8,GRAV,Culex stigmatosoma,3,69,0
 California,06,Placer,061,2023,8,GRAV,Culex tarsalis,7,12,0
+California,06,Placer,061,2023,8,NJLT,Culex pipiens,2,98,0
+California,06,Placer,061,2023,8,NJLT,Culex tarsalis,2,84,0
 California,06,Placer,061,2023,8,OTHER,Culex salinarius,2,6,0
 California,06,Placer,061,2023,8,OTHER,Culex tarsalis,1,42,1
 California,06,Riverside,065,2023,8,BGS,Culex pipiens,28,857,2
@@ -20320,6 +20472,8 @@ California,06,Riverside,065,2023,8,GRAV,Culex restuans,12,52,0
 California,06,Riverside,065,2023,8,GRAV,Culex salinarius,2,38,0
 California,06,Riverside,065,2023,8,GRAV,Culex stigmatosoma,8,217,3
 California,06,Riverside,065,2023,8,GRAV,Culex tarsalis,27,187,1
+California,06,Riverside,065,2023,8,NJLT,Culex pipiens,1,15,0
+California,06,Riverside,065,2023,8,NJLT,Culex tarsalis,4,172,0
 California,06,Riverside,065,2023,8,OTHER,Culex pipiens,1,33,0
 California,06,Riverside,065,2023,8,OTHER,Culex tarsalis,3,87,1
 California,06,Sacramento,067,2023,8,BGS,Culex pipiens,23,1305,2
@@ -20366,6 +20520,8 @@ California,06,San Bernardino,071,2023,8,GRAV,Culex quinquefasciatus,103,3524,14
 California,06,San Bernardino,071,2023,8,GRAV,Culex restuans,2,7,0
 California,06,San Bernardino,071,2023,8,GRAV,Culex salinarius,1,3,0
 California,06,San Bernardino,071,2023,8,GRAV,Culex tarsalis,9,43,0
+California,06,San Bernardino,071,2023,8,NJLT,Culex pipiens,3,152,0
+California,06,San Bernardino,071,2023,8,NJLT,Culex tarsalis,3,57,0
 California,06,San Joaquin,077,2023,8,BGS,Culex pipiens,2,127,0
 California,06,San Joaquin,077,2023,8,BGS,Culex quinquefasciatus,37,1286,10
 California,06,San Joaquin,077,2023,8,BGS,Culex stigmatosoma,2,35,0
@@ -20530,6 +20686,8 @@ California,06,Kern,029,2023,9,GRAV,Culex pipiens/restuans/salinarius,16,269,3
 California,06,Kern,029,2023,9,GRAV,Culex quinquefasciatus,150,5194,24
 California,06,Kern,029,2023,9,GRAV,Culex stigmatosoma,1,35,1
 California,06,Kern,029,2023,9,GRAV,Culex tarsalis,2,2,0
+California,06,Kern,029,2023,9,NJLT,Culex pipiens,2,42,0
+California,06,Kern,029,2023,9,NJLT,Culex tarsalis,1,26,0
 California,06,Kings,031,2023,9,BGS,Culex pipiens,2,30,0
 California,06,Kings,031,2023,9,BGS,Culex quinquefasciatus,3,87,0
 California,06,Kings,031,2023,9,BGS,Culex tarsalis,1,8,0
@@ -20579,6 +20737,7 @@ California,06,Madera,039,2023,9,GRAV,Culex pipiens/restuans/salinarius,23,843,9
 California,06,Madera,039,2023,9,GRAV,Culex quinquefasciatus,153,6093,14
 California,06,Madera,039,2023,9,GRAV,Culex restuans,1,19,0
 California,06,Madera,039,2023,9,GRAV,Culex tarsalis,3,36,0
+California,06,Madera,039,2023,9,NJLT,Culex pipiens/restuans/salinarius,3,139,2
 California,06,Madera,039,2023,9,OTHER,Culex pipiens/restuans/salinarius,5,30,0
 California,06,Merced,047,2023,9,BGS,Culex pipiens,5,149,0
 California,06,Merced,047,2023,9,BGS,Culex quinquefasciatus,111,3748,8
@@ -20635,6 +20794,7 @@ California,06,Placer,061,2023,9,GRAV,Culex pipiens/quinquefasciatus,8,309,5
 California,06,Placer,061,2023,9,GRAV,Culex pipiens/quinquefasciatus/restuans,3,222,1
 California,06,Placer,061,2023,9,GRAV,Culex pipiens/restuans/salinarius,2,34,0
 California,06,Placer,061,2023,9,GRAV,Culex quinquefasciatus,45,1239,3
+California,06,Placer,061,2023,9,NJLT,Culex pipiens/restuans/salinarius,2,108,0
 California,06,Riverside,065,2023,9,BGS,Culex pipiens,29,537,0
 California,06,Riverside,065,2023,9,BGS,Culex quinquefasciatus,161,5747,8
 California,06,Riverside,065,2023,9,BGS,Culex restuans,1,7,0
@@ -20658,6 +20818,7 @@ California,06,Riverside,065,2023,9,GRAV,Culex restuans,13,32,0
 California,06,Riverside,065,2023,9,GRAV,Culex salinarius,2,2,0
 California,06,Riverside,065,2023,9,GRAV,Culex stigmatosoma,5,37,0
 California,06,Riverside,065,2023,9,GRAV,Culex tarsalis,18,85,0
+California,06,Riverside,065,2023,9,NJLT,Culex pipiens/restuans/salinarius,2,91,0
 California,06,Riverside,065,2023,9,OTHER,Culex pipiens/restuans/salinarius,4,61,0
 California,06,Riverside,065,2023,9,OTHER,Culex restuans,1,1,0
 California,06,Sacramento,067,2023,9,BGS,Culex pipiens,6,67,0
@@ -20705,6 +20866,7 @@ California,06,San Joaquin,077,2023,9,GRAV,Culex pipiens/quinquefasciatus/restuan
 California,06,San Joaquin,077,2023,9,GRAV,Culex pipiens/restuans/salinarius,12,492,5
 California,06,San Joaquin,077,2023,9,GRAV,Culex quinquefasciatus,77,2789,18
 California,06,San Joaquin,077,2023,9,GRAV,Culex stigmatosoma,1,1,0
+California,06,San Joaquin,077,2023,9,NJLT,Culex salinarius,1,5,0
 California,06,Stanislaus,099,2023,9,BGS,Culex pipiens,2,66,0
 California,06,Stanislaus,099,2023,9,BGS,Culex tarsalis,4,65,0
 California,06,Stanislaus,099,2023,9,CO2,Culex pipiens,2,40,1
@@ -21382,6 +21544,7 @@ California,06,Riverside,065,2024,7,CO2,Culex tarsalis,24,587,1
 California,06,Riverside,065,2024,7,GRAV,Culex pipiens/quinquefasciatus/restuans,82,6220,24
 California,06,Riverside,065,2024,7,GRAV,Culex quinquefasciatus,4,76,0
 California,06,Riverside,065,2024,7,GRAV,Culex tarsalis,1,15,0
+California,06,Riverside,065,2024,7,NJLT,Culex pipiens,2,40,0
 California,06,Riverside,065,2024,7,OTHER,Culex pipiens/restuans/salinarius,1,2,0
 California,06,Sacramento,067,2024,7,CO2,Culex pipiens,7,33,0
 California,06,Sacramento,067,2024,7,CO2,Culex salinarius,1,9,0
@@ -21703,6 +21866,7 @@ California,06,Orange,059,2025,5,GRAV,Culex restuans,6,45,0
 California,06,Orange,059,2025,5,GRAV,Culex salinarius,1,2,0
 California,06,Orange,059,2025,5,GRAV,Culex stigmatosoma,3,40,0
 California,06,Orange,059,2025,5,GRAV,Culex tarsalis,7,8,0
+California,06,Orange,059,2025,5,NJLT,Culex pipiens/restuans/salinarius,3,34,0
 California,06,Placer,061,2025,5,BGS,Culex pipiens,3,15,0
 California,06,Placer,061,2025,5,BGS,Culex quinquefasciatus,39,1159,0
 California,06,Placer,061,2025,5,BGS,Culex tarsalis,6,89,0
@@ -21889,6 +22053,8 @@ California,06,Fresno,019,2025,6,GRAV,Culex quinquefasciatus,483,21914,47
 California,06,Fresno,019,2025,6,GRAV,Culex restuans,20,255,0
 California,06,Fresno,019,2025,6,GRAV,Culex stigmatosoma,10,92,0
 California,06,Fresno,019,2025,6,GRAV,Culex tarsalis,12,44,0
+California,06,Fresno,019,2025,6,NJLT,Culex pipiens/restuans/salinarius,3,113,0
+California,06,Fresno,019,2025,6,NJLT,Culex salinarius,1,30,0
 California,06,Fresno,019,2025,6,OTHER,Culex pipiens,4,67,0
 California,06,Fresno,019,2025,6,OTHER,Culex restuans,1,11,0
 California,06,Fresno,019,2025,6,OTHER,Culex tarsalis,8,328,0
@@ -21925,6 +22091,7 @@ California,06,Kern,029,2025,6,GRAV,Culex quinquefasciatus,283,15512,33
 California,06,Kern,029,2025,6,GRAV,Culex restuans,5,31,0
 California,06,Kern,029,2025,6,GRAV,Culex stigmatosoma,7,83,0
 California,06,Kern,029,2025,6,GRAV,Culex tarsalis,7,18,0
+California,06,Kern,029,2025,6,NJLT,Culex pipiens/restuans/salinarius,13,471,0
 California,06,Kern,029,2025,6,OTHER,Culex pipiens,2,16,0
 California,06,Kern,029,2025,6,OTHER,Culex quinquefasciatus,1,15,0
 California,06,Kern,029,2025,6,OTHER,Culex salinarius,1,2,0
@@ -21945,6 +22112,7 @@ California,06,Kings,031,2025,6,GRAV,Culex quinquefasciatus,31,1248,1
 California,06,Kings,031,2025,6,GRAV,Culex restuans,7,43,0
 California,06,Kings,031,2025,6,GRAV,Culex salinarius,1,3,0
 California,06,Kings,031,2025,6,GRAV,Culex stigmatosoma,1,31,0
+California,06,Kings,031,2025,6,NJLT,Culex salinarius,2,51,0
 California,06,Kings,031,2025,6,OTHER,Culex pipiens,2,100,0
 California,06,Kings,031,2025,6,OTHER,Culex tarsalis,1,8,0
 California,06,Los Angeles,037,2025,6,BGS,Culex pipiens,21,290,0
@@ -21968,6 +22136,7 @@ California,06,Los Angeles,037,2025,6,GRAV,Culex restuans,22,235,0
 California,06,Los Angeles,037,2025,6,GRAV,Culex salinarius,1,4,0
 California,06,Los Angeles,037,2025,6,GRAV,Culex stigmatosoma,11,123,0
 California,06,Los Angeles,037,2025,6,GRAV,Culex tarsalis,15,27,0
+California,06,Los Angeles,037,2025,6,NJLT,Culex salinarius,1,30,0
 California,06,Los Angeles,037,2025,6,OTHER,Culex pipiens,2,35,0
 California,06,Los Angeles,037,2025,6,OTHER,Culex quinquefasciatus,6,67,0
 California,06,Los Angeles,037,2025,6,OTHER,Culex stigmatosoma,1,1,0
@@ -21992,6 +22161,7 @@ California,06,Madera,039,2025,6,GRAV,Culex restuans,10,74,0
 California,06,Madera,039,2025,6,GRAV,Culex salinarius,1,11,0
 California,06,Madera,039,2025,6,GRAV,Culex stigmatosoma,1,21,0
 California,06,Madera,039,2025,6,GRAV,Culex tarsalis,3,18,0
+California,06,Madera,039,2025,6,NJLT,Culex salinarius,1,30,0
 California,06,Madera,039,2025,6,OTHER,Culex pipiens,2,26,0
 California,06,Madera,039,2025,6,OTHER,Culex tarsalis,8,285,0
 California,06,Merced,047,2025,6,BGS,Culex pipiens,2,4,0
@@ -22079,6 +22249,7 @@ California,06,Riverside,065,2025,6,GRAV,Culex restuans,14,134,0
 California,06,Riverside,065,2025,6,GRAV,Culex salinarius,1,1,0
 California,06,Riverside,065,2025,6,GRAV,Culex stigmatosoma,12,54,0
 California,06,Riverside,065,2025,6,GRAV,Culex tarsalis,19,185,0
+California,06,Riverside,065,2025,6,NJLT,Culex salinarius,2,46,0
 California,06,Riverside,065,2025,6,OTHER,Culex pipiens,6,56,0
 California,06,Riverside,065,2025,6,OTHER,Culex pipiens/restuans/salinarius,1,1,0
 California,06,Riverside,065,2025,6,OTHER,Culex quinquefasciatus,16,192,0
@@ -22105,6 +22276,7 @@ California,06,Sacramento,067,2025,6,GRAV,Culex quinquefasciatus,132,6330,8
 California,06,Sacramento,067,2025,6,GRAV,Culex restuans,3,44,0
 California,06,Sacramento,067,2025,6,GRAV,Culex stigmatosoma,1,6,0
 California,06,Sacramento,067,2025,6,GRAV,Culex tarsalis,9,105,0
+California,06,Sacramento,067,2025,6,NJLT,Culex salinarius,1,30,0
 California,06,Sacramento,067,2025,6,OTHER,Culex pipiens,1,5,0
 California,06,Sacramento,067,2025,6,OTHER,Culex pipiens/restuans/salinarius,2,19,0
 California,06,Sacramento,067,2025,6,OTHER,Culex quinquefasciatus,2,6,0
@@ -22243,6 +22415,7 @@ California,06,Butte,007,2025,7,GRAV,Culex quinquefasciatus,123,5131,10
 California,06,Butte,007,2025,7,GRAV,Culex restuans,1,2,0
 California,06,Butte,007,2025,7,GRAV,Culex stigmatosoma,3,68,2
 California,06,Butte,007,2025,7,GRAV,Culex tarsalis,5,17,1
+California,06,Butte,007,2025,7,NJLT,Culex salinarius,2,40,0
 California,06,Butte,007,2025,7,OTHER,Culex tarsalis,7,212,0
 California,06,Colusa,011,2025,7,BGS,Culex pipiens,1,10,0
 California,06,Colusa,011,2025,7,BGS,Culex quinquefasciatus,4,26,0
@@ -22277,6 +22450,7 @@ California,06,Fresno,019,2025,7,GRAV,Culex restuans,6,37,0
 California,06,Fresno,019,2025,7,GRAV,Culex salinarius,5,49,0
 California,06,Fresno,019,2025,7,GRAV,Culex stigmatosoma,4,22,0
 California,06,Fresno,019,2025,7,GRAV,Culex tarsalis,18,190,0
+California,06,Fresno,019,2025,7,NJLT,Culex salinarius,2,22,0
 California,06,Fresno,019,2025,7,OTHER,Culex pipiens,2,30,0
 California,06,Fresno,019,2025,7,OTHER,Culex quinquefasciatus,4,22,0
 California,06,Fresno,019,2025,7,OTHER,Culex stigmatosoma,1,7,0
@@ -22314,6 +22488,7 @@ California,06,Kern,029,2025,7,GRAV,Culex restuans,10,46,0
 California,06,Kern,029,2025,7,GRAV,Culex salinarius,3,17,0
 California,06,Kern,029,2025,7,GRAV,Culex stigmatosoma,9,125,2
 California,06,Kern,029,2025,7,GRAV,Culex tarsalis,32,156,0
+California,06,Kern,029,2025,7,NJLT,Culex pipiens/restuans/salinarius,1,50,0
 California,06,Kern,029,2025,7,OTHER,Culex pipiens,3,22,0
 California,06,Kern,029,2025,7,OTHER,Culex quinquefasciatus,34,428,4
 California,06,Kern,029,2025,7,OTHER,Culex restuans,3,17,0
@@ -22335,6 +22510,7 @@ California,06,Kings,031,2025,7,GRAV,Culex pipiens/restuans/salinarius,4,113,0
 California,06,Kings,031,2025,7,GRAV,Culex quinquefasciatus,21,1092,2
 California,06,Kings,031,2025,7,GRAV,Culex restuans,1,3,0
 California,06,Kings,031,2025,7,GRAV,Culex tarsalis,6,14,0
+California,06,Kings,031,2025,7,NJLT,Culex salinarius,1,7,0
 California,06,Los Angeles,037,2025,7,BGS,Culex nigripalpus,1,5,0
 California,06,Los Angeles,037,2025,7,BGS,Culex pipiens,46,1489,0
 California,06,Los Angeles,037,2025,7,BGS,Culex quinquefasciatus,81,1626,0
@@ -22382,6 +22558,7 @@ California,06,Madera,039,2025,7,GRAV,Culex quinquefasciatus,39,1299,6
 California,06,Madera,039,2025,7,GRAV,Culex restuans,1,1,0
 California,06,Madera,039,2025,7,GRAV,Culex stigmatosoma,1,46,0
 California,06,Madera,039,2025,7,GRAV,Culex tarsalis,4,14,0
+California,06,Madera,039,2025,7,NJLT,Culex pipiens/restuans/salinarius,2,100,0
 California,06,Madera,039,2025,7,OTHER,Culex quinquefasciatus,8,91,0
 California,06,Madera,039,2025,7,OTHER,Culex restuans,1,14,0
 California,06,Merced,047,2025,7,BGS,Culex pipiens,5,109,0
@@ -22404,6 +22581,7 @@ California,06,Merced,047,2025,7,GRAV,Culex restuans,4,40,1
 California,06,Merced,047,2025,7,GRAV,Culex salinarius,1,2,0
 California,06,Merced,047,2025,7,GRAV,Culex stigmatosoma,5,31,0
 California,06,Merced,047,2025,7,GRAV,Culex tarsalis,3,10,0
+California,06,Merced,047,2025,7,NJLT,Culex salinarius,2,37,0
 California,06,Merced,047,2025,7,OTHER,Culex quinquefasciatus,2,29,0
 California,06,Merced,047,2025,7,OTHER,Culex restuans,2,14,0
 California,06,Merced,047,2025,7,OTHER,Culex tarsalis,4,115,0
@@ -22478,6 +22656,7 @@ California,06,Riverside,065,2025,7,GRAV,Culex restuans,4,24,0
 California,06,Riverside,065,2025,7,GRAV,Culex salinarius,4,23,0
 California,06,Riverside,065,2025,7,GRAV,Culex stigmatosoma,15,177,2
 California,06,Riverside,065,2025,7,GRAV,Culex tarsalis,34,97,0
+California,06,Riverside,065,2025,7,NJLT,Culex salinarius,1,7,0
 California,06,Riverside,065,2025,7,OTHER,Culex pipiens,3,38,0
 California,06,Riverside,065,2025,7,OTHER,Culex quinquefasciatus,21,304,1
 California,06,Riverside,065,2025,7,OTHER,Culex restuans,6,25,0
@@ -22501,6 +22680,7 @@ California,06,Sacramento,067,2025,7,GRAV,Culex quinquefasciatus,162,6247,19
 California,06,Sacramento,067,2025,7,GRAV,Culex restuans,7,87,0
 California,06,Sacramento,067,2025,7,GRAV,Culex stigmatosoma,2,20,1
 California,06,Sacramento,067,2025,7,GRAV,Culex tarsalis,14,25,0
+California,06,Sacramento,067,2025,7,NJLT,Culex salinarius,1,11,0
 California,06,Sacramento,067,2025,7,OTHER,Culex quinquefasciatus,4,11,2
 California,06,Sacramento,067,2025,7,OTHER,Culex restuans,1,3,0
 California,06,Sacramento,067,2025,7,OTHER,Culex tarsalis,2,100,0
@@ -22602,6 +22782,7 @@ California,06,Tulare,107,2025,7,GRAV,Culex restuans,8,22,0
 California,06,Tulare,107,2025,7,GRAV,Culex salinarius,5,72,0
 California,06,Tulare,107,2025,7,GRAV,Culex stigmatosoma,7,143,0
 California,06,Tulare,107,2025,7,GRAV,Culex tarsalis,5,13,0
+California,06,Tulare,107,2025,7,NJLT,Culex pipiens/restuans/salinarius,3,122,1
 California,06,Tulare,107,2025,7,OTHER,Culex quinquefasciatus,25,734,12
 California,06,Tulare,107,2025,7,OTHER,Culex restuans,1,1,0
 California,06,Tulare,107,2025,7,OTHER,Culex tarsalis,2,43,0
@@ -22619,6 +22800,7 @@ California,06,Yolo,113,2025,7,GRAV,Culex pipiens/restuans/salinarius,25,1133,6
 California,06,Yolo,113,2025,7,GRAV,Culex quinquefasciatus,50,1286,4
 California,06,Yolo,113,2025,7,GRAV,Culex stigmatosoma,3,15,0
 California,06,Yolo,113,2025,7,GRAV,Culex tarsalis,5,20,0
+California,06,Yolo,113,2025,7,NJLT,Culex pipiens/restuans/salinarius,1,37,0
 California,06,Yolo,113,2025,7,OTHER,Culex quinquefasciatus,5,106,0
 California,06,Yuba,115,2025,7,BGS,Culex pipiens,1,10,0
 California,06,Yuba,115,2025,7,BGS,Culex quinquefasciatus,4,105,1
@@ -22681,6 +22863,7 @@ California,06,Kern,029,2025,8,GRAV,Culex pipiens/restuans/salinarius,17,935,10
 California,06,Kern,029,2025,8,GRAV,Culex quinquefasciatus,42,1601,9
 California,06,Kern,029,2025,8,GRAV,Culex restuans,1,3,0
 California,06,Kern,029,2025,8,GRAV,Culex tarsalis,1,2,0
+California,06,Kern,029,2025,8,NJLT,Culex salinarius,1,11,0
 California,06,Kern,029,2025,8,OTHER,Culex pipiens,1,1,0
 California,06,Kern,029,2025,8,OTHER,Culex quinquefasciatus,7,73,2
 California,06,Kern,029,2025,8,OTHER,Culex tarsalis,1,21,0
@@ -22709,6 +22892,7 @@ California,06,Los Angeles,037,2025,8,GRAV,Culex restuans,4,11,0
 California,06,Los Angeles,037,2025,8,GRAV,Culex salinarius,1,2,0
 California,06,Los Angeles,037,2025,8,GRAV,Culex stigmatosoma,17,169,3
 California,06,Los Angeles,037,2025,8,GRAV,Culex tarsalis,18,66,0
+California,06,Los Angeles,037,2025,8,NJLT,Culex salinarius,3,55,0
 California,06,Los Angeles,037,2025,8,OTHER,Culex pipiens,1,10,0
 California,06,Los Angeles,037,2025,8,OTHER,Culex quinquefasciatus,23,227,2
 California,06,Los Angeles,037,2025,8,OTHER,Culex salinarius,2,6,0
@@ -22738,6 +22922,7 @@ California,06,Merced,047,2025,8,CO2,Culex tarsalis,33,1148,2
 California,06,Merced,047,2025,8,GRAV,Culex pipiens/quinquefasciatus/restuans,1,50,0
 California,06,Merced,047,2025,8,GRAV,Culex pipiens/restuans/salinarius,4,77,1
 California,06,Merced,047,2025,8,GRAV,Culex quinquefasciatus,40,1755,8
+California,06,Merced,047,2025,8,NJLT,Culex salinarius,1,5,0
 California,06,Orange,059,2025,8,BGS,Culex pipiens,10,348,0
 California,06,Orange,059,2025,8,BGS,Culex pipiens/restuans/salinarius,1,1,0
 California,06,Orange,059,2025,8,BGS,Culex quinquefasciatus,13,145,2
@@ -22756,6 +22941,7 @@ California,06,Orange,059,2025,8,GRAV,Culex quinquefasciatus,116,4395,22
 California,06,Orange,059,2025,8,GRAV,Culex restuans,3,25,0
 California,06,Orange,059,2025,8,GRAV,Culex salinarius,3,7,0
 California,06,Orange,059,2025,8,GRAV,Culex stigmatosoma,3,24,0
+California,06,Orange,059,2025,8,NJLT,Culex salinarius,4,69,0
 California,06,Orange,059,2025,8,OTHER,Culex pipiens,1,9,0
 California,06,Orange,059,2025,8,OTHER,Culex pipiens/restuans/salinarius,1,5,0
 California,06,Orange,059,2025,8,OTHER,Culex tarsalis,7,183,0
@@ -22927,6 +23113,7 @@ California,06,Fresno,019,2025,9,GRAV,Culex pipiens/restuans/salinarius,3,150,2
 California,06,Fresno,019,2025,9,GRAV,Culex quinquefasciatus,85,4310,9
 California,06,Fresno,019,2025,9,GRAV,Culex stigmatosoma,4,10,0
 California,06,Fresno,019,2025,9,GRAV,Culex tarsalis,5,184,0
+California,06,Fresno,019,2025,9,NJLT,Culex salinarius,2,36,0
 California,06,Fresno,019,2025,9,OTHER,Culex pipiens,1,1,0
 California,06,Fresno,019,2025,9,OTHER,Culex quinquefasciatus,6,108,1
 California,06,Fresno,019,2025,9,OTHER,Culex salinarius,1,1,0
@@ -22956,6 +23143,7 @@ California,06,Kern,029,2025,9,GRAV,Culex pipiens/restuans/salinarius,27,625,5
 California,06,Kern,029,2025,9,GRAV,Culex quinquefasciatus,106,3350,3
 California,06,Kern,029,2025,9,GRAV,Culex restuans,4,10,1
 California,06,Kern,029,2025,9,GRAV,Culex tarsalis,1,1,0
+California,06,Kern,029,2025,9,NJLT,Culex salinarius,1,25,0
 California,06,Kern,029,2025,9,OTHER,Culex restuans,1,3,0
 California,06,Kings,031,2025,9,BGS,Culex quinquefasciatus,3,97,0
 California,06,Kings,031,2025,9,CO2,Culex pipiens,2,66,0
@@ -22984,6 +23172,7 @@ California,06,Los Angeles,037,2025,9,GRAV,Culex restuans,11,34,0
 California,06,Los Angeles,037,2025,9,GRAV,Culex salinarius,1,15,0
 California,06,Los Angeles,037,2025,9,GRAV,Culex stigmatosoma,4,67,0
 California,06,Los Angeles,037,2025,9,GRAV,Culex tarsalis,4,36,0
+California,06,Los Angeles,037,2025,9,NJLT,Culex salinarius,1,6,0
 California,06,Los Angeles,037,2025,9,OTHER,Culex quinquefasciatus,11,280,1
 California,06,Madera,039,2025,9,BGS,Culex quinquefasciatus,2,100,0
 California,06,Madera,039,2025,9,BGS,Culex tarsalis,2,53,0
@@ -23041,6 +23230,7 @@ California,06,Placer,061,2025,9,GRAV,Culex restuans,6,16,0
 California,06,Placer,061,2025,9,GRAV,Culex salinarius,1,23,0
 California,06,Placer,061,2025,9,GRAV,Culex stigmatosoma,13,115,0
 California,06,Placer,061,2025,9,GRAV,Culex tarsalis,18,26,1
+California,06,Placer,061,2025,9,NJLT,Culex salinarius,1,5,0
 California,06,Placer,061,2025,9,OTHER,Culex quinquefasciatus,2,90,0
 California,06,Riverside,065,2025,9,BGS,Culex pipiens,42,916,5
 California,06,Riverside,065,2025,9,BGS,Culex pipiens/quinquefasciatus,2,4,0
@@ -23068,6 +23258,7 @@ California,06,Riverside,065,2025,9,GRAV,Culex restuans,8,51,0
 California,06,Riverside,065,2025,9,GRAV,Culex salinarius,5,140,0
 California,06,Riverside,065,2025,9,GRAV,Culex stigmatosoma,16,126,1
 California,06,Riverside,065,2025,9,GRAV,Culex tarsalis,29,75,0
+California,06,Riverside,065,2025,9,NJLT,Culex salinarius,4,43,0
 California,06,Riverside,065,2025,9,OTHER,Culex pipiens,1,37,0
 California,06,Riverside,065,2025,9,OTHER,Culex pipiens/restuans/salinarius,2,3,0
 California,06,Riverside,065,2025,9,OTHER,Culex quinquefasciatus,4,117,0
@@ -23091,6 +23282,7 @@ California,06,Sacramento,067,2025,9,GRAV,Culex quinquefasciatus,75,2920,5
 California,06,Sacramento,067,2025,9,GRAV,Culex restuans,1,8,0
 California,06,Sacramento,067,2025,9,GRAV,Culex stigmatosoma,3,41,1
 California,06,Sacramento,067,2025,9,GRAV,Culex tarsalis,2,2,0
+California,06,Sacramento,067,2025,9,NJLT,Culex salinarius,1,10,0
 California,06,Sacramento,067,2025,9,OTHER,Culex quinquefasciatus,1,23,0
 California,06,San Bernardino,071,2025,9,BGS,Culex pipiens,9,320,1
 California,06,San Bernardino,071,2025,9,BGS,Culex pipiens/quinquefasciatus,1,3,0
@@ -23110,6 +23302,7 @@ California,06,San Bernardino,071,2025,9,GRAV,Culex pipiens/quinquefasciatus/rest
 California,06,San Bernardino,071,2025,9,GRAV,Culex pipiens/restuans/salinarius,26,704,6
 California,06,San Bernardino,071,2025,9,GRAV,Culex quinquefasciatus,76,4004,6
 California,06,San Bernardino,071,2025,9,GRAV,Culex stigmatosoma,3,84,0
+California,06,San Bernardino,071,2025,9,NJLT,Culex salinarius,1,20,0
 California,06,San Bernardino,071,2025,9,OTHER,Culex tarsalis,3,74,0
 California,06,San Joaquin,077,2025,9,BGS,Culex pipiens,3,88,0
 California,06,San Joaquin,077,2025,9,BGS,Culex quinquefasciatus,4,136,0
@@ -23863,10 +24056,11 @@ California,06,Los Angeles,037,2026,3,BGS,Culex restuans,1,29,0
 California,06,Los Angeles,037,2026,3,BGS,Culex stigmatosoma,4,108,0
 California,06,Los Angeles,037,2026,3,BGS,Culex tarsalis,7,96,0
 California,06,Los Angeles,037,2026,3,CO2,Culex nigripalpus,5,166,0
-California,06,Los Angeles,037,2026,3,CO2,Culex pipiens,4,30,0
+California,06,Los Angeles,037,2026,3,CO2,Culex pipiens,5,31,0
 California,06,Los Angeles,037,2026,3,CO2,Culex quinquefasciatus,135,1114,0
 California,06,Los Angeles,037,2026,3,CO2,Culex salinarius,32,1430,0
-California,06,Los Angeles,037,2026,3,CO2,Culex tarsalis,165,3034,1
+California,06,Los Angeles,037,2026,3,CO2,Culex stigmatosoma,1,6,0
+California,06,Los Angeles,037,2026,3,CO2,Culex tarsalis,168,3091,1
 California,06,Los Angeles,037,2026,3,GRAV,Culex pipiens,6,45,0
 California,06,Los Angeles,037,2026,3,GRAV,Culex quinquefasciatus,190,6492,1
 California,06,Los Angeles,037,2026,3,GRAV,Culex stigmatosoma,6,20,0
@@ -23900,11 +24094,11 @@ California,06,Riverside,065,2026,3,BGS,Culex quinquefasciatus,87,2327,0
 California,06,Riverside,065,2026,3,BGS,Culex stigmatosoma,5,134,0
 California,06,Riverside,065,2026,3,BGS,Culex tarsalis,13,196,0
 California,06,Riverside,065,2026,3,CO2,Culex nigripalpus,4,164,0
-California,06,Riverside,065,2026,3,CO2,Culex pipiens,16,181,0
+California,06,Riverside,065,2026,3,CO2,Culex pipiens,18,183,0
 California,06,Riverside,065,2026,3,CO2,Culex quinquefasciatus,150,1584,0
 California,06,Riverside,065,2026,3,CO2,Culex salinarius,25,1194,0
 California,06,Riverside,065,2026,3,CO2,Culex stigmatosoma,7,151,0
-California,06,Riverside,065,2026,3,CO2,Culex tarsalis,257,6180,0
+California,06,Riverside,065,2026,3,CO2,Culex tarsalis,260,6215,0
 California,06,Riverside,065,2026,3,GRAV,Culex quinquefasciatus,197,7503,0
 California,06,Riverside,065,2026,3,GRAV,Culex stigmatosoma,2,11,0
 California,06,Sacramento,067,2026,3,BGS,Culex quinquefasciatus,37,968,0
@@ -23981,10 +24175,12 @@ California,06,Fresno,019,2026,4,BGS,Culex quinquefasciatus,78,2250,0
 California,06,Fresno,019,2026,4,BGS,Culex salinarius,8,726,0
 California,06,Fresno,019,2026,4,BGS,Culex stigmatosoma,4,62,0
 California,06,Fresno,019,2026,4,CO2,Culex nigripalpus,16,465,0
+California,06,Fresno,019,2026,4,CO2,Culex pipiens,7,118,0
 California,06,Fresno,019,2026,4,CO2,Culex pipiens/quinquefasciatus,1,30,0
 California,06,Fresno,019,2026,4,CO2,Culex quinquefasciatus,147,1916,3
 California,06,Fresno,019,2026,4,CO2,Culex salinarius,37,2091,0
-California,06,Fresno,019,2026,4,CO2,Culex tarsalis,99,1400,2
+California,06,Fresno,019,2026,4,CO2,Culex stigmatosoma,3,6,0
+California,06,Fresno,019,2026,4,CO2,Culex tarsalis,111,1473,2
 California,06,Fresno,019,2026,4,GRAV,Culex quinquefasciatus,197,11163,0
 California,06,Fresno,019,2026,4,GRAV,Culex salinarius,1,10,0
 California,06,Glenn,021,2026,4,BGS,Culex quinquefasciatus,1,12,0
@@ -24008,19 +24204,21 @@ California,06,Kern,029,2026,4,OTHER,Culex tarsalis,2,65,0
 California,06,Kings,031,2026,4,BGS,Culex pipiens,1,10,0
 California,06,Kings,031,2026,4,BGS,Culex quinquefasciatus,10,324,0
 California,06,Kings,031,2026,4,BGS,Culex tarsalis,1,5,0
+California,06,Kings,031,2026,4,CO2,Culex pipiens,1,2,0
 California,06,Kings,031,2026,4,CO2,Culex quinquefasciatus,28,247,0
-California,06,Kings,031,2026,4,CO2,Culex tarsalis,14,112,0
+California,06,Kings,031,2026,4,CO2,Culex stigmatosoma,1,1,0
+California,06,Kings,031,2026,4,CO2,Culex tarsalis,15,119,0
 California,06,Kings,031,2026,4,GRAV,Culex quinquefasciatus,27,1650,0
 California,06,Los Angeles,037,2026,4,BGS,Culex pipiens,1,12,0
 California,06,Los Angeles,037,2026,4,BGS,Culex quinquefasciatus,64,1707,0
 California,06,Los Angeles,037,2026,4,BGS,Culex stigmatosoma,5,140,0
 California,06,Los Angeles,037,2026,4,BGS,Culex tarsalis,6,44,0
 California,06,Los Angeles,037,2026,4,CO2,Culex nigripalpus,10,326,0
-California,06,Los Angeles,037,2026,4,CO2,Culex pipiens,5,65,0
+California,06,Los Angeles,037,2026,4,CO2,Culex pipiens,8,69,0
 California,06,Los Angeles,037,2026,4,CO2,Culex quinquefasciatus,109,905,3
 California,06,Los Angeles,037,2026,4,CO2,Culex salinarius,31,1854,0
 California,06,Los Angeles,037,2026,4,CO2,Culex stigmatosoma,1,1,0
-California,06,Los Angeles,037,2026,4,CO2,Culex tarsalis,104,1844,1
+California,06,Los Angeles,037,2026,4,CO2,Culex tarsalis,109,1855,1
 California,06,Los Angeles,037,2026,4,GRAV,Culex quinquefasciatus,342,19028,0
 California,06,Los Angeles,037,2026,4,GRAV,Culex stigmatosoma,1,10,0
 California,06,Los Angeles,037,2026,4,OTHER,Culex tarsalis,1,30,0
@@ -24055,7 +24253,8 @@ California,06,Placer,061,2026,4,BGS,Culex tarsalis,1,1,0
 California,06,Placer,061,2026,4,CO2,Culex nigripalpus,4,82,0
 California,06,Placer,061,2026,4,CO2,Culex quinquefasciatus,29,497,2
 California,06,Placer,061,2026,4,CO2,Culex salinarius,3,150,0
-California,06,Placer,061,2026,4,CO2,Culex tarsalis,31,803,1
+California,06,Placer,061,2026,4,CO2,Culex stigmatosoma,1,1,0
+California,06,Placer,061,2026,4,CO2,Culex tarsalis,32,805,1
 California,06,Placer,061,2026,4,GRAV,Culex quinquefasciatus,80,3127,0
 California,06,Placer,061,2026,4,GRAV,Culex stigmatosoma,7,26,0
 California,06,Placer,061,2026,4,GRAV,Culex tarsalis,1,2,0
@@ -24065,12 +24264,12 @@ California,06,Riverside,065,2026,4,BGS,Culex quinquefasciatus,85,2331,0
 California,06,Riverside,065,2026,4,BGS,Culex stigmatosoma,5,72,0
 California,06,Riverside,065,2026,4,BGS,Culex tarsalis,5,118,0
 California,06,Riverside,065,2026,4,CO2,Culex nigripalpus,4,184,0
-California,06,Riverside,065,2026,4,CO2,Culex pipiens,3,17,0
+California,06,Riverside,065,2026,4,CO2,Culex pipiens,7,67,0
 California,06,Riverside,065,2026,4,CO2,Culex pipiens/quinquefasciatus,1,10,0
 California,06,Riverside,065,2026,4,CO2,Culex quinquefasciatus,136,1640,1
 California,06,Riverside,065,2026,4,CO2,Culex salinarius,44,2593,0
-California,06,Riverside,065,2026,4,CO2,Culex stigmatosoma,4,46,0
-California,06,Riverside,065,2026,4,CO2,Culex tarsalis,160,3911,3
+California,06,Riverside,065,2026,4,CO2,Culex stigmatosoma,5,47,0
+California,06,Riverside,065,2026,4,CO2,Culex tarsalis,171,4019,3
 California,06,Riverside,065,2026,4,GRAV,Culex quinquefasciatus,232,11390,1
 California,06,Riverside,065,2026,4,GRAV,Culex stigmatosoma,6,51,0
 California,06,Riverside,065,2026,4,GRAV,Culex tarsalis,3,3,0
@@ -24079,22 +24278,22 @@ California,06,Sacramento,067,2026,4,BGS,Culex pipiens/quinquefasciatus,1,8,0
 California,06,Sacramento,067,2026,4,BGS,Culex quinquefasciatus,29,903,0
 California,06,Sacramento,067,2026,4,BGS,Culex tarsalis,5,100,0
 California,06,Sacramento,067,2026,4,CO2,Culex nigripalpus,4,78,0
-California,06,Sacramento,067,2026,4,CO2,Culex pipiens,3,26,0
+California,06,Sacramento,067,2026,4,CO2,Culex pipiens,5,39,0
 California,06,Sacramento,067,2026,4,CO2,Culex quinquefasciatus,81,464,0
 California,06,Sacramento,067,2026,4,CO2,Culex salinarius,12,483,0
-California,06,Sacramento,067,2026,4,CO2,Culex stigmatosoma,4,7,0
-California,06,Sacramento,067,2026,4,CO2,Culex tarsalis,84,470,1
+California,06,Sacramento,067,2026,4,CO2,Culex stigmatosoma,5,9,0
+California,06,Sacramento,067,2026,4,CO2,Culex tarsalis,87,475,1
 California,06,Sacramento,067,2026,4,GRAV,Culex quinquefasciatus,86,4380,0
 California,06,Sacramento,067,2026,4,GRAV,Culex restuans,1,1,0
 California,06,Sacramento,067,2026,4,GRAV,Culex stigmatosoma,2,15,0
 California,06,San Bernardino,071,2026,4,BGS,Culex quinquefasciatus,29,676,0
 California,06,San Bernardino,071,2026,4,BGS,Culex stigmatosoma,6,230,0
 California,06,San Bernardino,071,2026,4,BGS,Culex tarsalis,2,15,0
-California,06,San Bernardino,071,2026,4,CO2,Culex pipiens,2,10,0
+California,06,San Bernardino,071,2026,4,CO2,Culex pipiens,4,15,0
 California,06,San Bernardino,071,2026,4,CO2,Culex quinquefasciatus,48,468,1
 California,06,San Bernardino,071,2026,4,CO2,Culex salinarius,21,837,0
-California,06,San Bernardino,071,2026,4,CO2,Culex stigmatosoma,3,12,0
-California,06,San Bernardino,071,2026,4,CO2,Culex tarsalis,46,460,0
+California,06,San Bernardino,071,2026,4,CO2,Culex stigmatosoma,5,20,0
+California,06,San Bernardino,071,2026,4,CO2,Culex tarsalis,49,468,0
 California,06,San Bernardino,071,2026,4,GRAV,Culex quinquefasciatus,49,1522,0
 California,06,San Bernardino,071,2026,4,GRAV,Culex stigmatosoma,1,1,0
 California,06,San Bernardino,071,2026,4,GRAV,Culex tarsalis,4,29,0
@@ -24111,127 +24310,147 @@ California,06,Stanislaus,099,2026,4,BGS,Culex quinquefasciatus,44,1218,0
 California,06,Stanislaus,099,2026,4,BGS,Culex stigmatosoma,5,122,0
 California,06,Stanislaus,099,2026,4,BGS,Culex tarsalis,2,75,0
 California,06,Stanislaus,099,2026,4,CO2,Culex nigripalpus,1,6,0
-California,06,Stanislaus,099,2026,4,CO2,Culex pipiens,1,15,0
+California,06,Stanislaus,099,2026,4,CO2,Culex pipiens,5,27,0
 California,06,Stanislaus,099,2026,4,CO2,Culex quinquefasciatus,53,701,1
 California,06,Stanislaus,099,2026,4,CO2,Culex salinarius,8,468,0
-California,06,Stanislaus,099,2026,4,CO2,Culex tarsalis,51,584,0
+California,06,Stanislaus,099,2026,4,CO2,Culex stigmatosoma,2,2,0
+California,06,Stanislaus,099,2026,4,CO2,Culex tarsalis,59,604,0
 California,06,Stanislaus,099,2026,4,GRAV,Culex pipiens,1,5,0
 California,06,Stanislaus,099,2026,4,GRAV,Culex quinquefasciatus,54,1915,0
 California,06,Stanislaus,099,2026,4,GRAV,Culex stigmatosoma,4,26,0
 California,06,Sutter,101,2026,4,BGS,Culex quinquefasciatus,3,71,0
 California,06,Sutter,101,2026,4,CO2,Culex nigripalpus,3,39,0
+California,06,Sutter,101,2026,4,CO2,Culex pipiens,1,4,0
 California,06,Sutter,101,2026,4,CO2,Culex quinquefasciatus,6,6,0
-California,06,Sutter,101,2026,4,CO2,Culex tarsalis,8,139,1
+California,06,Sutter,101,2026,4,CO2,Culex stigmatosoma,1,1,0
+California,06,Sutter,101,2026,4,CO2,Culex tarsalis,10,142,1
 California,06,Sutter,101,2026,4,GRAV,Culex quinquefasciatus,17,1427,0
 California,06,Tulare,107,2026,4,BGS,Culex pipiens,6,81,0
 California,06,Tulare,107,2026,4,BGS,Culex quinquefasciatus,57,1410,0
 California,06,Tulare,107,2026,4,BGS,Culex stigmatosoma,4,95,0
 California,06,Tulare,107,2026,4,CO2,Culex nigripalpus,1,57,0
-California,06,Tulare,107,2026,4,CO2,Culex pipiens,19,661,0
+California,06,Tulare,107,2026,4,CO2,Culex pipiens,24,689,0
 California,06,Tulare,107,2026,4,CO2,Culex quinquefasciatus,137,1726,2
 California,06,Tulare,107,2026,4,CO2,Culex salinarius,24,1821,0
 California,06,Tulare,107,2026,4,CO2,Culex stigmatosoma,2,46,0
-California,06,Tulare,107,2026,4,CO2,Culex tarsalis,123,2443,3
+California,06,Tulare,107,2026,4,CO2,Culex tarsalis,132,2463,3
 California,06,Tulare,107,2026,4,GRAV,Culex quinquefasciatus,276,14457,0
 California,06,Tulare,107,2026,4,GRAV,Culex stigmatosoma,3,37,0
 California,06,Yolo,113,2026,4,BGS,Culex quinquefasciatus,14,327,0
 California,06,Yolo,113,2026,4,BGS,Culex stigmatosoma,1,1,0
 California,06,Yolo,113,2026,4,CO2,Culex nigripalpus,2,34,0
-California,06,Yolo,113,2026,4,CO2,Culex pipiens,3,21,0
+California,06,Yolo,113,2026,4,CO2,Culex pipiens,4,22,0
 California,06,Yolo,113,2026,4,CO2,Culex quinquefasciatus,25,489,1
 California,06,Yolo,113,2026,4,CO2,Culex salinarius,9,551,0
-California,06,Yolo,113,2026,4,CO2,Culex tarsalis,8,161,0
+California,06,Yolo,113,2026,4,CO2,Culex stigmatosoma,3,6,0
+California,06,Yolo,113,2026,4,CO2,Culex tarsalis,9,162,0
 California,06,Yolo,113,2026,4,GRAV,Culex quinquefasciatus,30,1574,0
 California,06,Yolo,113,2026,4,GRAV,Culex stigmatosoma,3,26,0
 California,06,Yolo,113,2026,4,GRAV,Culex tarsalis,3,3,0
 California,06,Yuba,115,2026,4,CO2,Culex nigripalpus,4,105,0
+California,06,Yuba,115,2026,4,CO2,Culex pipiens,3,3,0
 California,06,Yuba,115,2026,4,CO2,Culex quinquefasciatus,10,78,0
-California,06,Yuba,115,2026,4,CO2,Culex tarsalis,3,97,0
+California,06,Yuba,115,2026,4,CO2,Culex tarsalis,5,129,0
 California,06,Yuba,115,2026,4,GRAV,Culex quinquefasciatus,8,452,0
 California,06,Butte,007,2026,5,BGS,Culex pipiens,2,38,0
-California,06,Butte,007,2026,5,BGS,Culex quinquefasciatus,4,138,0
+California,06,Butte,007,2026,5,BGS,Culex quinquefasciatus,8,233,0
 California,06,Butte,007,2026,5,CO2,Culex quinquefasciatus,5,158,0
-California,06,Butte,007,2026,5,CO2,Culex tarsalis,5,47,0
-California,06,Butte,007,2026,5,GRAV,Culex quinquefasciatus,10,800,0
+California,06,Butte,007,2026,5,CO2,Culex tarsalis,6,53,0
+California,06,Butte,007,2026,5,GRAV,Culex quinquefasciatus,21,1162,0
 California,06,Colusa,011,2026,5,BGS,Culex quinquefasciatus,1,13,0
 California,06,Colusa,011,2026,5,GRAV,Culex quinquefasciatus,2,28,0
-California,06,Fresno,019,2026,5,BGS,Culex quinquefasciatus,16,304,0
+California,06,Fresno,019,2026,5,BGS,Culex quinquefasciatus,17,354,0
 California,06,Fresno,019,2026,5,BGS,Culex stigmatosoma,1,10,0
 California,06,Fresno,019,2026,5,BGS,Culex tarsalis,1,14,0
-California,06,Fresno,019,2026,5,CO2,Culex quinquefasciatus,9,206,0
-California,06,Fresno,019,2026,5,CO2,Culex salinarius,12,993,0
-California,06,Fresno,019,2026,5,CO2,Culex tarsalis,1,23,0
-California,06,Fresno,019,2026,5,GRAV,Culex quinquefasciatus,47,2512,2
+California,06,Fresno,019,2026,5,CO2,Culex pipiens,8,206,0
+California,06,Fresno,019,2026,5,CO2,Culex quinquefasciatus,16,352,0
+California,06,Fresno,019,2026,5,CO2,Culex salinarius,23,1851,0
+California,06,Fresno,019,2026,5,CO2,Culex stigmatosoma,5,72,0
+California,06,Fresno,019,2026,5,CO2,Culex tarsalis,50,1947,0
+California,06,Fresno,019,2026,5,GRAV,Culex quinquefasciatus,99,5649,2
+California,06,Fresno,019,2026,5,GRAV,Culex stigmatosoma,2,25,0
 California,06,Fresno,019,2026,5,OTHER,Culex tarsalis,1,39,0
 California,06,Glenn,021,2026,5,CO2,Culex pipiens,1,13,0
 California,06,Glenn,021,2026,5,GRAV,Culex quinquefasciatus,1,100,0
-California,06,Kern,029,2026,5,BGS,Culex quinquefasciatus,20,338,0
+California,06,Kern,029,2026,5,BGS,Culex quinquefasciatus,23,416,0
 California,06,Kern,029,2026,5,BGS,Culex stigmatosoma,4,111,0
 California,06,Kern,029,2026,5,CO2,Culex pipiens,1,11,0
-California,06,Kern,029,2026,5,CO2,Culex quinquefasciatus,19,532,0
-California,06,Kern,029,2026,5,CO2,Culex salinarius,22,1355,0
-California,06,Kern,029,2026,5,CO2,Culex tarsalis,7,78,0
-California,06,Kern,029,2026,5,GRAV,Culex quinquefasciatus,49,2432,0
+California,06,Kern,029,2026,5,CO2,Culex quinquefasciatus,25,624,0
+California,06,Kern,029,2026,5,CO2,Culex salinarius,33,2122,0
+California,06,Kern,029,2026,5,CO2,Culex tarsalis,15,453,0
+California,06,Kern,029,2026,5,GRAV,Culex quinquefasciatus,70,3544,1
+California,06,Kern,029,2026,5,GRAV,Culex restuans,1,6,0
 California,06,Kern,029,2026,5,GRAV,Culex stigmatosoma,3,50,0
 California,06,Kings,031,2026,5,BGS,Culex quinquefasciatus,2,66,0
 California,06,Kings,031,2026,5,BGS,Culex stigmatosoma,1,42,0
 California,06,Kings,031,2026,5,CO2,Culex quinquefasciatus,5,9,1
-California,06,Kings,031,2026,5,CO2,Culex tarsalis,3,4,0
-California,06,Kings,031,2026,5,GRAV,Culex quinquefasciatus,15,717,0
+California,06,Kings,031,2026,5,CO2,Culex tarsalis,7,204,0
+California,06,Kings,031,2026,5,GRAV,Culex quinquefasciatus,21,1050,0
 California,06,Los Angeles,037,2026,5,BGS,Culex pipiens,2,44,0
-California,06,Los Angeles,037,2026,5,BGS,Culex quinquefasciatus,20,402,0
+California,06,Los Angeles,037,2026,5,BGS,Culex quinquefasciatus,24,523,0
 California,06,Los Angeles,037,2026,5,BGS,Culex stigmatosoma,2,17,0
-California,06,Los Angeles,037,2026,5,CO2,Culex pipiens,2,44,0
-California,06,Los Angeles,037,2026,5,CO2,Culex quinquefasciatus,8,245,0
-California,06,Los Angeles,037,2026,5,CO2,Culex salinarius,3,231,0
-California,06,Los Angeles,037,2026,5,CO2,Culex stigmatosoma,1,13,0
-California,06,Los Angeles,037,2026,5,CO2,Culex tarsalis,6,17,0
-California,06,Los Angeles,037,2026,5,GRAV,Culex quinquefasciatus,73,4090,6
+California,06,Los Angeles,037,2026,5,CO2,Culex pipiens,10,95,0
+California,06,Los Angeles,037,2026,5,CO2,Culex quinquefasciatus,9,271,0
+California,06,Los Angeles,037,2026,5,CO2,Culex salinarius,5,319,0
+California,06,Los Angeles,037,2026,5,CO2,Culex stigmatosoma,3,20,0
+California,06,Los Angeles,037,2026,5,CO2,Culex tarsalis,20,186,0
+California,06,Los Angeles,037,2026,5,GRAV,Culex quinquefasciatus,136,8197,7
 California,06,Los Angeles,037,2026,5,GRAV,Culex stigmatosoma,2,58,0
-California,06,Merced,047,2026,5,BGS,Culex quinquefasciatus,2,29,0
+California,06,Los Angeles,037,2026,5,NJLT,Culex restuans,1,6,0
+California,06,Merced,047,2026,5,BGS,Culex quinquefasciatus,4,129,0
+California,06,Merced,047,2026,5,CO2,Culex tarsalis,1,43,0
+California,06,Merced,047,2026,5,GRAV,Culex quinquefasciatus,1,9,0
 California,06,Orange,059,2026,5,BGS,Culex pipiens,12,275,0
-California,06,Orange,059,2026,5,BGS,Culex quinquefasciatus,12,235,0
+California,06,Orange,059,2026,5,BGS,Culex quinquefasciatus,16,324,0
 California,06,Orange,059,2026,5,CO2,Culex nigripalpus,1,74,0
 California,06,Orange,059,2026,5,CO2,Culex pipiens,5,101,0
 California,06,Orange,059,2026,5,CO2,Culex quinquefasciatus,10,272,0
 California,06,Orange,059,2026,5,CO2,Culex stigmatosoma,3,46,0
 California,06,Orange,059,2026,5,CO2,Culex tarsalis,44,1450,0
-California,06,Orange,059,2026,5,GRAV,Culex quinquefasciatus,48,1928,0
-California,06,Placer,061,2026,5,BGS,Culex quinquefasciatus,1,24,0
+California,06,Orange,059,2026,5,GRAV,Culex quinquefasciatus,57,2236,0
+California,06,Placer,061,2026,5,BGS,Culex quinquefasciatus,2,74,0
 California,06,Placer,061,2026,5,CO2,Culex nigripalpus,1,8,0
-California,06,Placer,061,2026,5,CO2,Culex quinquefasciatus,5,147,0
+California,06,Placer,061,2026,5,CO2,Culex quinquefasciatus,6,163,0
 California,06,Placer,061,2026,5,CO2,Culex salinarius,9,487,0
 California,06,Placer,061,2026,5,CO2,Culex tarsalis,1,50,0
 California,06,Placer,061,2026,5,GRAV,Culex pipiens,3,21,0
-California,06,Placer,061,2026,5,GRAV,Culex quinquefasciatus,7,513,0
+California,06,Placer,061,2026,5,GRAV,Culex quinquefasciatus,22,1347,0
 California,06,Placer,061,2026,5,GRAV,Culex stigmatosoma,1,2,0
 California,06,Placer,061,2026,5,GRAV,Culex tarsalis,1,6,0
 California,06,Riverside,065,2026,5,BGS,Culex quinquefasciatus,4,80,0
 California,06,Riverside,065,2026,5,CO2,Culex quinquefasciatus,12,16,2
-California,06,Riverside,065,2026,5,CO2,Culex tarsalis,8,91,1
-California,06,Riverside,065,2026,5,GRAV,Culex quinquefasciatus,78,6045,0
-California,06,Sacramento,067,2026,5,CO2,Culex quinquefasciatus,8,156,0
+California,06,Riverside,065,2026,5,CO2,Culex tarsalis,10,121,1
+California,06,Riverside,065,2026,5,GRAV,Culex quinquefasciatus,104,7744,1
+California,06,Sacramento,067,2026,5,BGS,Culex quinquefasciatus,2,70,0
+California,06,Sacramento,067,2026,5,BGS,Culex tarsalis,1,23,0
+California,06,Sacramento,067,2026,5,CO2,Culex quinquefasciatus,11,275,0
 California,06,Sacramento,067,2026,5,CO2,Culex salinarius,18,1041,0
 California,06,Sacramento,067,2026,5,CO2,Culex tarsalis,3,82,0
-California,06,Sacramento,067,2026,5,GRAV,Culex quinquefasciatus,29,1882,0
-California,06,San Bernardino,071,2026,5,BGS,Culex quinquefasciatus,7,225,0
+California,06,Sacramento,067,2026,5,GRAV,Culex quinquefasciatus,57,3735,0
+California,06,San Bernardino,071,2026,5,BGS,Culex quinquefasciatus,8,254,0
 California,06,San Bernardino,071,2026,5,BGS,Culex stigmatosoma,1,10,0
-California,06,San Bernardino,071,2026,5,GRAV,Culex quinquefasciatus,3,19,0
+California,06,San Bernardino,071,2026,5,CO2,Culex tarsalis,5,35,0
+California,06,San Bernardino,071,2026,5,GRAV,Culex quinquefasciatus,14,545,0
 California,06,San Joaquin,077,2026,5,BGS,Culex quinquefasciatus,4,86,0
 California,06,San Joaquin,077,2026,5,BGS,Culex stigmatosoma,1,29,0
-California,06,San Joaquin,077,2026,5,CO2,Culex quinquefasciatus,16,29,2
+California,06,San Joaquin,077,2026,5,CO2,Culex quinquefasciatus,17,36,2
+California,06,San Joaquin,077,2026,5,CO2,Culex salinarius,4,262,0
 California,06,San Joaquin,077,2026,5,CO2,Culex tarsalis,18,87,3
 California,06,San Joaquin,077,2026,5,GRAV,Culex quinquefasciatus,2,32,0
 California,06,Stanislaus,099,2026,5,CO2,Culex quinquefasciatus,1,1,0
+California,06,Stanislaus,099,2026,5,GRAV,Culex quinquefasciatus,6,322,0
 California,06,Sutter,101,2026,5,GRAV,Culex quinquefasciatus,1,40,0
-California,06,Tulare,107,2026,5,BGS,Culex pipiens,3,7,0
-California,06,Tulare,107,2026,5,BGS,Culex quinquefasciatus,2,46,0
-California,06,Tulare,107,2026,5,CO2,Culex quinquefasciatus,49,215,4
-California,06,Tulare,107,2026,5,CO2,Culex salinarius,19,1116,0
-California,06,Tulare,107,2026,5,CO2,Culex tarsalis,17,38,0
-California,06,Tulare,107,2026,5,GRAV,Culex quinquefasciatus,50,2442,0
+California,06,Tulare,107,2026,5,BGS,Culex pipiens,6,10,0
+California,06,Tulare,107,2026,5,BGS,Culex quinquefasciatus,15,325,0
+California,06,Tulare,107,2026,5,BGS,Culex tarsalis,4,7,0
+California,06,Tulare,107,2026,5,CO2,Culex nigripalpus,1,8,0
+California,06,Tulare,107,2026,5,CO2,Culex quinquefasciatus,62,587,4
+California,06,Tulare,107,2026,5,CO2,Culex salinarius,78,5669,1
+California,06,Tulare,107,2026,5,CO2,Culex tarsalis,23,173,0
+California,06,Tulare,107,2026,5,GRAV,Culex quinquefasciatus,71,3430,0
+California,06,Yolo,113,2026,5,BGS,Culex quinquefasciatus,1,33,0
 California,06,Yolo,113,2026,5,CO2,Culex pipiens,1,16,0
-California,06,Yolo,113,2026,5,CO2,Culex quinquefasciatus,4,6,1
+California,06,Yolo,113,2026,5,CO2,Culex quinquefasciatus,6,63,1
 California,06,Yolo,113,2026,5,CO2,Culex salinarius,2,150,0
 California,06,Yolo,113,2026,5,CO2,Culex tarsalis,3,53,0
-California,06,Yolo,113,2026,5,GRAV,Culex quinquefasciatus,10,652,0
+California,06,Yolo,113,2026,5,GRAV,Culex quinquefasciatus,31,2227,0

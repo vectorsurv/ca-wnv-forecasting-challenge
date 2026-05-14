@@ -2856,20 +2856,21 @@ California,06,Los Angeles,037,2026,4,14,9,0
 California,06,Orange,059,2026,4,1,0,0
 California,06,Placer,061,2026,4,4,0,0
 California,06,Riverside,065,2026,4,5,3,0
-California,06,Sacramento,067,2026,4,20,0,0
+California,06,Sacramento,067,2026,4,20,19,0
 California,06,San Joaquin,077,2026,4,4,0,0
 California,06,Stanislaus,099,2026,4,4,3,0
 California,06,Tulare,107,2026,4,2,2,0
-California,06,Yolo,113,2026,4,2,0,0
+California,06,Yolo,113,2026,4,2,2,0
 California,06,Fresno,019,2026,5,6,1,1
-California,06,Los Angeles,037,2026,5,1,1,0
+California,06,Los Angeles,037,2026,5,7,1,0
 California,06,Madera,039,2026,5,1,0,0
 California,06,Orange,059,2026,5,2,0,0
 California,06,Placer,061,2026,5,4,0,0
 California,06,Riverside,065,2026,5,3,0,0
-California,06,Sacramento,067,2026,5,18,0,0
-California,06,San Bernardino,071,2026,5,4,0,0
+California,06,Sacramento,067,2026,5,26,19,0
+California,06,San Bernardino,071,2026,5,5,0,0
 California,06,San Joaquin,077,2026,5,3,0,0
-California,06,Stanislaus,099,2026,5,1,0,0
-California,06,Yolo,113,2026,5,5,0,0
+California,06,Stanislaus,099,2026,5,2,0,0
+California,06,Sutter,101,2026,5,1,0,0
+California,06,Yolo,113,2026,5,8,5,0
 California,06,Yuba,115,2026,5,1,0,0
